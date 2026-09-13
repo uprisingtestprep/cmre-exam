@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "general",
+    "front": "What is the scope of practice of a registered midwife in Canada?",
+    "back": "A registered midwife is the primary care provider for normal, low-risk pregnancy, labour, birth, and postpartum care, and for the healthy newborn during the first six weeks of life. Midwives practise autonomously within this scope, without requiring physician supervision."
+  },
+  {
+    "id": 2,
+    "domain": "general",
+    "front": "In which three settings can a Canadian midwife attend a birth?",
+    "back": "Home, a freestanding or hospital-based birth centre, and hospital. This tri-setting authority reflects the profession's commitment to supporting the client's informed choice of birthplace."
+  },
+  {
+    "id": 3,
+    "domain": "general",
+    "front": "What are the three core principles of the midwifery model of care?",
+    "back": "Continuity of care, informed choice, and choice of birthplace. Together these principles distinguish midwifery philosophy while remaining compatible with evidence-based practice and safe escalation of care."
+  },
+  {
+    "id": 4,
+    "domain": "general",
+    "front": "What does continuity of care mean in Canadian midwifery practice?",
+    "back": "The client is cared for throughout pregnancy, birth, and postpartum by a known midwife or a small, consistent team, often a primary and secondary midwife, rather than by a rotating group of unfamiliar providers."
+  },
+  {
+    "id": 5,
+    "domain": "general",
+    "front": "Define informed choice as practised by midwives.",
+    "back": "An ongoing process of providing balanced, evidence-based information about risks, benefits, and alternatives at every decision point, and supporting the client to make decisions reflecting her own values, with the discussion clearly documented."
+  },
+  {
+    "id": 6,
+    "domain": "general",
+    "front": "How does choice of birthplace affect a midwife's clinical responsibility?",
+    "back": "It does not change. The midwife assesses risk continuously in every setting and is prepared to recommend or arrange transfer if the clinical picture no longer matches home, birth centre, or planned hospital care."
+  },
+  {
+    "id": 7,
+    "domain": "general",
+    "front": "Who regulates midwifery in Canada?",
+    "back": "Each province and, among the territories, the Northwest Territories and Yukon regulate midwifery through their own college or regulatory body, which sets standards of practice, a code of ethics, and registration requirements. Regulation is provincial and territorial, not federal."
+  },
+  {
+    "id": 8,
+    "domain": "general",
+    "front": "What is the CMRC?",
+    "back": "The Canadian Midwifery Regulators Council, the umbrella body of provincial and territorial midwifery regulators. It administers the national entrance examination required for initial registration in most Canadian jurisdictions."
+  },
+  {
+    "id": 9,
+    "domain": "general",
+    "front": "What is the CMRE?",
+    "back": "The Canadian Midwifery Registration Examination, a computer-based, multiple-choice national entrance exam using case-based clusters and standalone questions across nine content domains reflecting entry-level midwifery competence."
+  },
+  {
+    "id": 10,
+    "domain": "general",
+    "front": "Does passing the CMRE alone grant a licence to practise midwifery?",
+    "back": "No. A candidate must also meet the specific registration requirements of the province or territory where she intends to work, which may include jurisprudence assessments or supervised practice components."
+  },
+  {
+    "id": 11,
+    "domain": "general",
+    "front": "What is a 'discussion' in the consultation and transfer framework?",
+    "back": "An informal conversation with a physician about a finding that is mildly outside the midwife's usual comfort range but does not necessarily change the plan of care or shift primary responsibility."
+  },
+  {
+    "id": 12,
+    "domain": "general",
+    "front": "What is a formal 'consultation' in the transfer of care framework?",
+    "back": "A formal request for a physician's assessment and recommendation. The midwife may retain primary care informed by the specialist's input, or the physician may become more directly involved depending on findings."
+  },
+  {
+    "id": 13,
+    "domain": "general",
+    "front": "What does 'transfer of care' mean for a midwife's client?",
+    "back": "Primary responsibility for the pregnancy, birth, or newborn moves to a physician or obstetrician, though the midwife often continues providing support and continuity in a secondary role rather than withdrawing entirely."
+  },
+  {
+    "id": 14,
+    "domain": "general",
+    "front": "Name the widely referenced example of provincial consultation and transfer guidance.",
+    "back": "Ontario's Indications for Discussion, Consultation and Transfer of Care, which illustrates the three-tier discussion, consultation, and transfer structure used across most Canadian provincial colleges."
+  },
+  {
+    "id": 15,
+    "domain": "general",
+    "front": "Why is prompt, accurate documentation a core professional responsibility?",
+    "back": "The health record is the primary evidence of care provided and clinical reasoning used, and is often the single most important factor in demonstrating that the standard of care was met after an adverse outcome or complaint."
+  },
+  {
+    "id": 16,
+    "domain": "general",
+    "front": "What are the key qualities of sound clinical documentation?",
+    "back": "Timely, factual, specific, and written as close to the event as possible, using precise clinical language and standard units, with the person and time of each assessment or intervention clearly attributed."
+  },
+  {
+    "id": 17,
+    "domain": "general",
+    "front": "How should a documentation error be corrected in a health record?",
+    "back": "Draw a single line through the error, initial and date the correction, and add the accurate information, preserving a transparent record of what was originally written and when it was corrected."
+  },
+  {
+    "id": 18,
+    "domain": "general",
+    "front": "When must an informed choice discussion be documented?",
+    "back": "Whenever a significant clinical decision is made, particularly when a client declines the recommended standard of care or proceeds against advice, or when a consultation or transfer decision is made."
+  },
+  {
+    "id": 19,
+    "domain": "general",
+    "front": "When does risk assessment occur during midwifery care?",
+    "back": "Continuously, not just at the initial visit. Risk status can change across pregnancy, labour, and postpartum, so risk is reassessed at every encounter and the plan of care is updated accordingly."
+  },
+  {
+    "id": 20,
+    "domain": "general",
+    "front": "What does evidence-based practice require of a midwife's clinical decisions?",
+    "back": "Integrating the best available research evidence with clinical expertise and the individual client's values and preferences, rather than applying guidelines or a single evidence source mechanically."
+  },
+  {
+    "id": 21,
+    "domain": "general",
+    "front": "What organization publishes national obstetric clinical guidelines referenced in Canadian midwifery practice?",
+    "back": "The Society of Obstetricians and Gynaecologists of Canada, alongside provincial midwifery associations, publishes guidelines that provide a structured starting point requiring clinical judgment for the specific client."
+  },
+  {
+    "id": 22,
+    "domain": "general",
+    "front": "What should a midwife do when uncertain about a clinical presentation?",
+    "back": "Recognize her own limits honestly and seek support, whether informal peer consultation within her practice group or formal consultation with a physician, rather than proceeding on an unsupported judgment."
+  },
+  {
+    "id": 23,
+    "domain": "general",
+    "front": "What are standard precautions in midwifery infection control?",
+    "back": "Hand hygiene before and after every client contact, appropriate personal protective equipment when exposure to blood or body fluids is anticipated, and safe handling and disposal of sharps and contaminated materials."
+  },
+  {
+    "id": 24,
+    "domain": "general",
+    "front": "How does infection prevention differ in a home birth compared to hospital?",
+    "back": "In the home, the midwife brings her own sterile and clean supplies and creates and maintains a clean field herself, since the environment is not inherently sterile, and safely transports contaminated equipment and waste afterward."
+  },
+  {
+    "id": 25,
+    "domain": "general",
+    "front": "Why is intrapartum antibiotic prophylaxis relevant to infection prevention?",
+    "back": "Clients who screen positive for Group B Streptococcus colonization require intrapartum antibiotic prophylaxis according to jurisdictional protocol to reduce the risk of neonatal early-onset infection."
+  },
+  {
+    "id": 26,
+    "domain": "general",
+    "front": "Name three postpartum or clinical infections a midwife must monitor for after birth.",
+    "back": "Chorioamnionitis, wound infection, and mastitis, along with signs of neonatal infection, so that treatment or consultation with a physician can begin promptly if identified."
+  },
+  {
+    "id": 27,
+    "domain": "general",
+    "front": "What core equipment does a midwifery emergency kit typically include for postpartum hemorrhage?",
+    "back": "Uterotonic medications, intravenous supplies and fluids, and equipment to support bimanual uterine compression, along with supplies to establish rapid intravenous access for fluid resuscitation."
+  },
+  {
+    "id": 28,
+    "domain": "general",
+    "front": "What neonatal resuscitation equipment must a midwife carry to every out-of-hospital birth?",
+    "back": "A bag and mask sized for a newborn, suction equipment, oxygen and delivery equipment, and a means of keeping the newborn warm, ready to use immediately if resuscitation is required."
+  },
+  {
+    "id": 29,
+    "domain": "general",
+    "front": "What is the midwife's responsibility before EMS or an obstetric team arrives during an emergency?",
+    "back": "She is fully responsible for initiating emergency management immediately using her own skills, training, and equipment, and continues managing the emergency as additional help arrives rather than waiting for backup."
+  },
+  {
+    "id": 30,
+    "domain": "general",
+    "front": "What should a midwife do immediately upon recognizing postpartum hemorrhage?",
+    "back": "Begin fundal massage, administer uterotonic medication, establish intravenous access, and prepare for bimanual uterine compression while simultaneously arranging transfer if needed."
+  },
+  {
+    "id": 31,
+    "domain": "general",
+    "front": "What is the first response when a newborn is not breathing effectively at birth?",
+    "back": "Begin stimulation, drying, and warming immediately, and provide positive pressure ventilation without delay, proceeding through the standard neonatal resuscitation sequence while a second provider calls for support."
+  },
+  {
+    "id": 32,
+    "domain": "general",
+    "front": "How does regular emergency drilling improve out-of-hospital birth safety?",
+    "back": "Rehearsing emergency skills through simulation or practice drills, confirming transfer routes in advance, and assigning clear roles to every birth attendant ensures a rapid, organized response when a real emergency occurs."
+  },
+  {
+    "id": 33,
+    "domain": "general",
+    "front": "Why must a midwife register separately in each province where she practises?",
+    "back": "Health profession regulation is a provincial and territorial responsibility, so each college is a distinct legal entity with its own registration, renewal, and continuing competence requirements that do not transfer automatically."
+  },
+  {
+    "id": 34,
+    "domain": "general",
+    "front": "What proportion of CMRE questions are grouped into linked clinical case clusters?",
+    "back": "About 54 percent of CMRE questions are grouped into cases, a short scenario followed by 3 to 5 linked questions, testing sustained clinical reasoning rather than only isolated knowledge recall."
+  },
+  {
+    "id": 35,
+    "domain": "general",
+    "front": "Why does the CMRE reward a conservative, well-reasoned clinical decision over a confident but unsupported one?",
+    "back": "Safe midwifery practice depends on recognizing the limits of normal and one's own limits, and acting on uncertainty through consultation or transfer, which the exam is designed to test as a core entry-level competency."
+  },
+  {
+    "id": 36,
+    "domain": "education_and_counselling",
+    "front": "How does informed choice differ from informed consent in midwifery practice?",
+    "back": "Informed consent applies to a single specific intervention, while informed choice treats the client as an active decision maker across her entire care, including the choice to decline routine tests or interventions. Midwives present all reasonable options, including no intervention, and support whichever decision the client makes."
+  },
+  {
+    "id": 37,
+    "domain": "education_and_counselling",
+    "front": "Why should absolute risk be used instead of relative risk when counselling clients?",
+    "back": "Relative risk framing, such as saying a risk doubles, can be misleading when the baseline risk is very small. Absolute risk gives the client a clearer, more accurate picture of the true likelihood of an outcome, supporting genuinely informed decision making."
+  },
+  {
+    "id": 38,
+    "domain": "education_and_counselling",
+    "front": "What is the teach-back technique and why is it used?",
+    "back": "Teach-back asks the client to restate information in her own words rather than simply asking if she has questions. It confirms genuine understanding rather than passive acknowledgment and is a core tool for health literacy-appropriate counselling."
+  },
+  {
+    "id": 39,
+    "domain": "education_and_counselling",
+    "front": "A client declines group B streptococcus prophylaxis after counselling. What should the midwife do?",
+    "back": "The midwife documents the discussion of risks, benefits, and alternatives, confirms the decision is voluntary and informed, and continues to support the client's care within the agreed plan. Care is not withdrawn and the decision is not repeatedly re-litigated."
+  },
+  {
+    "id": 40,
+    "domain": "education_and_counselling",
+    "front": "What is the recommended daily folic acid dose for a low-risk pregnant client?",
+    "back": "0.4 mg daily, ideally starting before conception and continuing through the first trimester. Higher doses of 4 or 5 mg are reserved for clients with elevated risk, such as a prior neural tube defect pregnancy or certain anticonvulsant use."
+  },
+  {
+    "id": 41,
+    "domain": "education_and_counselling",
+    "front": "Why is vitamin C recommended alongside dietary iron sources in pregnancy?",
+    "back": "Vitamin C enhances the absorption of dietary iron, which supports management of the increased iron needs of pregnancy. Sources such as red meat, legumes, and fortified cereals are commonly paired with vitamin C-rich foods for this reason."
+  },
+  {
+    "id": 42,
+    "domain": "education_and_counselling",
+    "front": "What foods are avoided in pregnancy due to listeria risk?",
+    "back": "Unpasteurized dairy products, deli meats unless heated until steaming, and refrigerated pates or smoked seafood are avoided. These foods carry a higher risk of listeria contamination, which can cause serious complications in pregnancy."
+  },
+  {
+    "id": 43,
+    "domain": "education_and_counselling",
+    "front": "What is the typical recommended caffeine limit during pregnancy?",
+    "back": "Under 300 mg daily, roughly equivalent to two to three cups of coffee. Higher intake has been associated with modestly increased risk of low birth weight in the evidence base used for this counselling."
+  },
+  {
+    "id": 44,
+    "domain": "education_and_counselling",
+    "front": "How much moderate-intensity physical activity is recommended weekly in a low-risk pregnancy?",
+    "back": "At least 150 minutes per week, spread across most days, for clients without contraindications. Walking, swimming, and prenatal yoga are commonly recommended activities."
+  },
+  {
+    "id": 45,
+    "domain": "education_and_counselling",
+    "front": "Name three contraindications to exercise in pregnancy.",
+    "back": "Persistent bleeding, incompetent cervix, and placenta previa after 28 weeks are examples. Severe preeclampsia and preterm labour are also contraindications, and counselling is individualized whenever any of these are present."
+  },
+  {
+    "id": 46,
+    "domain": "education_and_counselling",
+    "front": "What is the recommended level of alcohol consumption in pregnancy?",
+    "back": "No amount of alcohol has been established as safe in pregnancy, so complete abstinence is recommended. Fetal alcohol spectrum disorder is discussed as a preventable, lifelong condition when counselling on this topic."
+  },
+  {
+    "id": 47,
+    "domain": "education_and_counselling",
+    "front": "Why does legal status not equal safety when counselling on cannabis use in pregnancy?",
+    "back": "Tetrahydrocannabinol crosses the placenta and is associated with adverse neurodevelopmental outcomes in emerging evidence, regardless of legal status. Clients are counselled to avoid use and offered support if using regularly."
+  },
+  {
+    "id": 48,
+    "domain": "education_and_counselling",
+    "front": "A client discloses ongoing opioid use in pregnancy. What is the appropriate midwifery response?",
+    "back": "Prompt consultation regarding supervised opioid agonist therapy is indicated, since untreated opioid use disorder carries greater risk than supervised treatment. Abrupt cessation can precipitate withdrawal that is itself dangerous, so simply telling her to stop is not appropriate."
+  },
+  {
+    "id": 49,
+    "domain": "education_and_counselling",
+    "front": "List four warning signs taught to every prenatal client for urgent contact.",
+    "back": "Decreased fetal movement, vaginal bleeding, leaking fluid, and severe or persistent headache are core examples. Others include visual disturbances, epigastric pain, sudden facial or hand swelling, and contractions before 37 weeks."
+  },
+  {
+    "id": 50,
+    "domain": "education_and_counselling",
+    "front": "Why is transfer likelihood discussed as part of informed choice for planned home birth?",
+    "back": "Clients planning an out-of-hospital birth need realistic expectations grounded in evidence, including approximate transfer rates for primiparous versus multiparous clients. This ensures the choice of birthplace is made with full understanding of the possible course of care."
+  },
+  {
+    "id": 51,
+    "domain": "education_and_counselling",
+    "front": "What should a birth plan be treated as, rather than a fixed script?",
+    "back": "A documented starting point for informed choice discussions that can be revisited as labour unfolds. Midwives counsel that flexibility is important since normal labour can deviate from any plan."
+  },
+  {
+    "id": 52,
+    "domain": "education_and_counselling",
+    "front": "When does breastfeeding or chestfeeding education ideally begin?",
+    "back": "Prenatally, since antenatal education measurably improves initiation and duration rates. Teaching covers lactation physiology, skin-to-skin contact, and expected feeding patterns before the baby arrives."
+  },
+  {
+    "id": 53,
+    "domain": "education_and_counselling",
+    "front": "What are early hunger cues a newborn shows before crying?",
+    "back": "Rooting, hand-to-mouth movements, and increased alertness are early hunger cues. Crying is a late hunger cue, so clients are taught to feed on these earlier signs rather than waiting for the infant to cry."
+  },
+  {
+    "id": 54,
+    "domain": "education_and_counselling",
+    "front": "What does persistent nipple pain beyond the first few seconds of a feed usually indicate?",
+    "back": "A shallow latch is the usual cause, and it warrants hands-on assessment and repositioning support from the midwife. Ongoing pain should not simply be tolerated as a normal part of feeding."
+  },
+  {
+    "id": 55,
+    "domain": "education_and_counselling",
+    "front": "What is the expected pattern of normal newborn weight loss and regain?",
+    "back": "Up to approximately seven percent of birth weight may be lost in the first days, with a return to birth weight expected by roughly two weeks. Explaining this pattern proactively prevents unnecessary alarm."
+  },
+  {
+    "id": 56,
+    "domain": "education_and_counselling",
+    "front": "How should a midwife counsel a client who chooses or needs to formula feed?",
+    "back": "Counselling remains nonjudgmental, covering safe preparation, paced bottle-feeding technique, and continued skin-to-skin contact. Language implying formula feeding is a failure is avoided, consistent with respectful care."
+  },
+  {
+    "id": 57,
+    "domain": "education_and_counselling",
+    "front": "What is the key distinction between prenatal screening tests and diagnostic tests?",
+    "back": "Screening tests, such as first trimester screening or non-invasive prenatal testing, estimate risk rather than provide a definitive answer. A high-risk screening result requires diagnostic follow-up, such as amniocentesis, for confirmation."
+  },
+  {
+    "id": 58,
+    "domain": "education_and_counselling",
+    "front": "What does non-invasive prenatal testing analyze?",
+    "back": "Cell-free fetal DNA circulating in maternal blood. It is a screening test that estimates risk of certain chromosomal conditions and does not provide a diagnosis on its own."
+  },
+  {
+    "id": 59,
+    "domain": "education_and_counselling",
+    "front": "When is the anatomy ultrasound typically performed and what is its purpose?",
+    "back": "Around 18 to 20 weeks gestation, as a structural survey of fetal anatomy. It can also identify markers associated with chromosomal conditions, so clients are counselled on this possibility before the scan occurs."
+  },
+  {
+    "id": 60,
+    "domain": "education_and_counselling",
+    "front": "A screening test confirms a fetal anomaly. Does the midwife continue to manage this alone?",
+    "back": "No, this falls outside normal low-risk midwifery scope for that specific finding, so the midwife consults with or refers to maternal-fetal medicine and genetic counselling services. She continues to provide emotional support and coordinate overall care."
+  },
+  {
+    "id": 61,
+    "domain": "education_and_counselling",
+    "front": "How is round ligament pain distinguished during counselling on pregnancy discomforts?",
+    "back": "It is explained as a sharp or aching sensation in the lower abdomen brought on by position change, a normal stretching phenomenon. It is distinguished clearly from a sign of labour or placental problems."
+  },
+  {
+    "id": 62,
+    "domain": "education_and_counselling",
+    "front": "How are Braxton Hicks contractions distinguished from true labour in client education?",
+    "back": "Braxton Hicks contractions are irregular and typically painless tightening, while true labour is regular and intensifying in strength and frequency. This distinction helps clients know when to call their midwife."
+  },
+  {
+    "id": 63,
+    "domain": "education_and_counselling",
+    "front": "What is the expected color progression of normal lochia postpartum?",
+    "back": "Lochia progresses from red, to pink, to white or yellow over several weeks. Clients are taught this expected pattern along with warning signs of hemorrhage or infection that would require urgent assessment."
+  },
+  {
+    "id": 64,
+    "domain": "education_and_counselling",
+    "front": "How does postpartum depression differ from the baby blues in counselling terms?",
+    "back": "The baby blues are common, self-limited, and resolve within the first two weeks. Postpartum depression or anxiety persists beyond two weeks or presents with greater severity, and requires screening and referral for support."
+  },
+  {
+    "id": 65,
+    "domain": "education_and_counselling",
+    "front": "What are the core elements of safe infant sleep education?",
+    "back": "Supine positioning, a firm flat sleep surface, room sharing without bed sharing, and avoidance of loose bedding. These practices reduce the risk of sudden infant death and are taught to every family prenatally and postpartum."
+  },
+  {
+    "id": 66,
+    "domain": "education_and_counselling",
+    "front": "What does the Period of Purple Crying concept help normalize?",
+    "back": "A developmentally expected peak in infant crying during the early months of life. It emphasizes safe coping strategies for caregiver frustration rather than assuming increased crying signals a medical problem."
+  },
+  {
+    "id": 67,
+    "domain": "education_and_counselling",
+    "front": "What does cultural safety require beyond cultural sensitivity or awareness?",
+    "back": "It requires the provider to reflect on her own position and potential biases and to recognize the ongoing impact of colonialism on Indigenous peoples' healthcare experiences. Safety is determined by the client herself, not assumed by the provider."
+  },
+  {
+    "id": 68,
+    "domain": "education_and_counselling",
+    "front": "Why should a family member not be used as an interpreter for a client with limited language proficiency?",
+    "back": "Using a family member can compromise confidentiality and accuracy of the information exchanged. A trained interpreter should be used instead to protect the client's privacy and ensure clear communication."
+  },
+  {
+    "id": 69,
+    "domain": "education_and_counselling",
+    "front": "What are two core practices of trauma-informed care during a physical exam?",
+    "back": "Explaining what the exam will involve before it happens, and asking permission before any touch. Both practices offer the client choice and control, which are central to trauma-informed communication."
+  },
+  {
+    "id": 70,
+    "domain": "education_and_counselling",
+    "front": "What is the chunk and check technique in health literacy counselling?",
+    "back": "Breaking information into small pieces and checking comprehension after each chunk, rather than delivering one long uninterrupted explanation. This approach is more effective for ensuring the client actually understands the material."
+  },
+  {
+    "id": 71,
+    "domain": "antepartum_care",
+    "front": "What is Naegele's rule used for?",
+    "back": "It calculates the estimated date of birth from a reliable last menstrual period by adding seven days, subtracting three months, and adding one year. It assumes a regular 28-day cycle with ovulation on day 14."
+  },
+  {
+    "id": 72,
+    "domain": "antepartum_care",
+    "front": "When is a dating ultrasound most accurate for establishing gestational age?",
+    "back": "Between 8 and 13 weeks, using crown-rump length. This measurement is more accurate than LMP-based dating and should take precedence when the last menstrual period is uncertain."
+  },
+  {
+    "id": 73,
+    "domain": "antepartum_care",
+    "front": "Should a first-trimester dating ultrasound be revised by a later scan?",
+    "back": "No. Once dates are established by an early ultrasound, they should not be routinely changed later, because fetal size becomes a less reliable proxy for gestational age as pregnancy advances."
+  },
+  {
+    "id": 74,
+    "domain": "antepartum_care",
+    "front": "What is a common antepartum visit schedule for a low-risk pregnancy?",
+    "back": "Monthly visits until 28 weeks, every two to three weeks from 28 to 36 weeks, and weekly visits from 36 weeks until birth. Visit frequency increases as the risk of late complications rises."
+  },
+  {
+    "id": 75,
+    "domain": "antepartum_care",
+    "front": "What are the three foundational values of the Canadian midwifery model of care?",
+    "back": "Informed choice, continuity of care with a known midwife or small team, and choice of birthplace among home, birth centre, and hospital."
+  },
+  {
+    "id": 76,
+    "domain": "antepartum_care",
+    "front": "What happens when an antepartum finding falls outside normal scope?",
+    "back": "The midwife consults with or transfers care to an obstetrician or physician, following provincial guidelines such as Ontario's Indications for Discussion, Consultation and Transfer of Care, rather than managing it alone."
+  },
+  {
+    "id": 77,
+    "domain": "antepartum_care",
+    "front": "Why should intimate partner violence screening be done privately?",
+    "back": "The client may not be able to disclose safely if a partner is present. Private screening protects disclosure and allows the midwife to offer appropriate support and referral."
+  },
+  {
+    "id": 78,
+    "domain": "antepartum_care",
+    "front": "When does abdominal palpation using Leopold's maneuvers typically begin?",
+    "back": "From around 20 weeks, once the uterus becomes palpable abdominally. It helps determine fetal lie and presentation, and later, engagement of the presenting part."
+  },
+  {
+    "id": 79,
+    "domain": "antepartum_care",
+    "front": "Why is a baseline blood pressure important early in pregnancy?",
+    "back": "A later rise in blood pressure is only meaningful when compared against the client's own baseline rather than a population average, since normal baselines vary between individuals."
+  },
+  {
+    "id": 80,
+    "domain": "antepartum_care",
+    "front": "What causes common first-trimester symptoms like nausea and urinary frequency?",
+    "back": "Rising hCG and progesterone cause nausea, vomiting, and breast tenderness, while the enlarging uterus pressing on the bladder causes urinary frequency."
+  },
+  {
+    "id": 81,
+    "domain": "antepartum_care",
+    "front": "Why does hemoglobin appear to drop physiologically in pregnancy?",
+    "back": "Plasma volume expansion begins before red cell mass increases proportionally, producing a mild dilutional drop in hemoglobin that becomes most apparent later in pregnancy."
+  },
+  {
+    "id": 82,
+    "domain": "antepartum_care",
+    "front": "When does quickening typically occur?",
+    "back": "Quickening, the first maternal perception of fetal movement, typically occurs between 16 and 20 weeks gestation, usually earlier in a subsequent pregnancy than a first pregnancy."
+  },
+  {
+    "id": 83,
+    "domain": "antepartum_care",
+    "front": "Why can lying flat cause supine hypotension in pregnancy?",
+    "back": "The gravid uterus can compress the inferior vena cava when lying flat, reducing venous return and blood pressure. Left lateral or semi-reclined positioning avoids this."
+  },
+  {
+    "id": 84,
+    "domain": "antepartum_care",
+    "front": "Why does breathlessness commonly occur in the third trimester?",
+    "back": "The growing uterus displaces the diaphragm upward, reducing functional residual lung capacity. This is usually normal but must be distinguished from cardiac or respiratory pathology."
+  },
+  {
+    "id": 85,
+    "domain": "antepartum_care",
+    "front": "What hormone softens the pelvic joints in preparation for birth?",
+    "back": "Relaxin increases pelvic joint flexibility in preparation for birth, but this same softening can cause pelvic girdle discomfort during pregnancy."
+  },
+  {
+    "id": 86,
+    "domain": "antepartum_care",
+    "front": "How are Braxton Hicks contractions distinguished from true labour?",
+    "back": "Braxton Hicks contractions are irregular, generally painless, and do not cause cervical change, while true labour contractions are regular, progressively stronger and closer together, and cause cervical change."
+  },
+  {
+    "id": 87,
+    "domain": "antepartum_care",
+    "front": "How is fundal height measured?",
+    "back": "Using a tape measure from the pubic symphysis to the top of the uterine fundus in centimetres, performed at every visit from around 20 weeks onward."
+  },
+  {
+    "id": 88,
+    "domain": "antepartum_care",
+    "front": "How does fundal height in centimetres relate to gestational age in weeks?",
+    "back": "Between about 20 and 34 weeks, fundal height in centimetres approximates gestational age in weeks within about 2 to 3 cm for most people with a singleton pregnancy."
+  },
+  {
+    "id": 89,
+    "domain": "antepartum_care",
+    "front": "What conditions make fundal height a less reliable measure of gestational age?",
+    "back": "Maternal obesity, polyhydramnios, oligohydramnios, multiple gestation, and fetal malpresentation all reduce the reliability of fundal height as an estimate of gestational age."
+  },
+  {
+    "id": 90,
+    "domain": "antepartum_care",
+    "front": "What should be done if a fundal height measurement is outside the expected range?",
+    "back": "Investigate further with an ultrasound for growth assessment rather than assuming the tape measure was inaccurate, especially if the trend persists across serial visits."
+  },
+  {
+    "id": 91,
+    "domain": "antepartum_care",
+    "front": "Why are serial fundal height trends more valuable than a single measurement?",
+    "back": "Plotting measurements on a growth chart across the pregnancy shows whether growth is tracking normally, lagging, or accelerating, which is more informative than comparing one reading to a fixed rule."
+  },
+  {
+    "id": 92,
+    "domain": "antepartum_care",
+    "front": "What does a consistent fundal height lag suggest?",
+    "back": "Possible fetal growth restriction, warranting investigation of placental function and umbilical artery Doppler studies where indicated."
+  },
+  {
+    "id": 93,
+    "domain": "antepartum_care",
+    "front": "What does a fundal height that is consistently large for dates raise concern for?",
+    "back": "Macrosomia, polyhydramnios, multiple gestation, or inaccurate dating, all of which warrant ultrasound assessment to clarify the cause."
+  },
+  {
+    "id": 94,
+    "domain": "antepartum_care",
+    "front": "When do midwives teach clients to start monitoring fetal movement?",
+    "back": "From around 26 to 28 weeks onward, focusing on the baby's own usual pattern rather than a universal numeric target."
+  },
+  {
+    "id": 95,
+    "domain": "antepartum_care",
+    "front": "What is a commonly taught method for fetal movement counting?",
+    "back": "Counting to ten distinct movements within up to two hours, once a day, at a time when the baby is usually active."
+  },
+  {
+    "id": 96,
+    "domain": "antepartum_care",
+    "front": "What should a client do if fetal movement feels decreased?",
+    "back": "Contact the midwife promptly rather than waiting for the next scheduled visit, since a change from the baby's usual pattern is the key warning sign."
+  },
+  {
+    "id": 97,
+    "domain": "antepartum_care",
+    "front": "What is the midwife's initial assessment for reported decreased fetal movement?",
+    "back": "Auscultation of the fetal heart rate, review of recent maternal factors such as fasting or medication, and further evaluation with a nonstress test or biophysical profile via referral."
+  },
+  {
+    "id": 98,
+    "domain": "antepartum_care",
+    "front": "Do Canadian midwives typically perform continuous electronic fetal monitoring or biophysical profiles themselves?",
+    "back": "No, these are generally arranged through referral rather than performed directly by the midwife in routine antepartum care."
+  },
+  {
+    "id": 99,
+    "domain": "antepartum_care",
+    "front": "What is a normal baseline fetal heart rate at rest?",
+    "back": "Generally 110 to 160 beats per minute, auscultated with a handheld Doppler device or fetoscope at routine visits."
+  },
+  {
+    "id": 100,
+    "domain": "antepartum_care",
+    "front": "What baseline bloodwork is typically offered at the first antepartum visit?",
+    "back": "Complete blood count, blood group and Rh type with antibody screen, rubella immunity, hepatitis B, syphilis, and HIV screening, along with baseline urinalysis and culture."
+  },
+  {
+    "id": 101,
+    "domain": "antepartum_care",
+    "front": "Why is prenatal screening always presented as optional in Canadian midwifery care?",
+    "back": "Because informed choice is a foundational value, each client decides for herself whether to pursue any screening test after understanding its purpose and limitations."
+  },
+  {
+    "id": 102,
+    "domain": "antepartum_care",
+    "front": "Why does blood group and antibody screening matter for Rh-negative clients?",
+    "back": "An Rh-negative client carrying an Rh-positive fetus is at risk of alloimmunization, so antibody status must be identified early to plan appropriate prophylaxis."
+  },
+  {
+    "id": 103,
+    "domain": "antepartum_care",
+    "front": "When is anti-D immunoglobulin (WinRho) routinely offered?",
+    "back": "Around 28 weeks to Rh-negative clients without antibodies, again after any potentially sensitizing event, and after birth if the newborn is confirmed Rh-positive."
+  },
+  {
+    "id": 104,
+    "domain": "antepartum_care",
+    "front": "What does first-trimester aneuploidy screening combine?",
+    "back": "Maternal serum markers with nuchal translucency ultrasound measurement, performed between about 11 and 13 weeks 6 days."
+  },
+  {
+    "id": 105,
+    "domain": "antepartum_care",
+    "front": "What is non-invasive prenatal testing (NIPT) and when can it be performed?",
+    "back": "NIPT analyzes cell-free fetal DNA in maternal blood and can be performed from about 10 weeks, offering higher sensitivity for common trisomies than serum screening alone."
+  },
+  {
+    "id": 106,
+    "domain": "antepartum_care",
+    "front": "When is the detailed anatomy ultrasound typically offered?",
+    "back": "Around 18 to 20 weeks, to assess fetal structural development, placental location, and amniotic fluid volume."
+  },
+  {
+    "id": 107,
+    "domain": "antepartum_care",
+    "front": "When is glucose screening for gestational diabetes offered?",
+    "back": "Between 24 and 28 weeks, using either a one-step 75 g oral glucose tolerance test or a two-step approach starting with a 50 g glucose challenge test."
+  },
+  {
+    "id": 108,
+    "domain": "antepartum_care",
+    "front": "Which clients may be offered earlier glucose screening?",
+    "back": "Clients with risk factors such as prior gestational diabetes, obesity, or a strong family history of diabetes may be offered screening in the first trimester as well."
+  },
+  {
+    "id": 109,
+    "domain": "antepartum_care",
+    "front": "When is Group B Streptococcus (GBS) screening performed?",
+    "back": "By vaginal-rectal swab at 35 to 37 weeks gestation. A positive result indicates the need for intravenous antibiotic prophylaxis during labour."
+  },
+  {
+    "id": 110,
+    "domain": "antepartum_care",
+    "front": "Why is GBS status discussed with the client well before labour begins?",
+    "back": "So she can make an informed choice about intrapartum antibiotics ahead of time, rather than facing the decision unexpectedly during labour."
+  },
+  {
+    "id": 111,
+    "domain": "antepartum_care",
+    "front": "What daily dose of folic acid is recommended for most low-risk people planning pregnancy?",
+    "back": "0.4 mg daily as part of a multivitamin, recommended before conception when possible and continued throughout pregnancy to reduce neural tube defect risk."
+  },
+  {
+    "id": 112,
+    "domain": "antepartum_care",
+    "front": "Who is recommended a higher dose of folic acid, and how much?",
+    "back": "Clients at increased risk, such as a personal or family history of neural tube defects, certain anticonvulsant use, or pre-existing diabetes, are recommended up to 4 or 5 mg daily."
+  },
+  {
+    "id": 113,
+    "domain": "antepartum_care",
+    "front": "Why is preconception folic acid supplementation especially protective?",
+    "back": "The neural tube closes very early, by around day 28 after conception, so supplementation started before pregnancy is confirmed offers the most protection."
+  },
+  {
+    "id": 114,
+    "domain": "antepartum_care",
+    "front": "How should mild dilutional anemia be distinguished from true iron deficiency anemia?",
+    "back": "By reviewing red cell indices or ferritin levels, since dilutional anemia from plasma volume expansion is a normal finding while iron deficiency requires dietary counselling or supplementation."
+  },
+  {
+    "id": 115,
+    "domain": "antepartum_care",
+    "front": "What is the typical vitamin D dose in a standard prenatal multivitamin?",
+    "back": "400 IU daily, supporting maternal and fetal bone health, with higher doses considered for clients with limited sun exposure or other risk factors."
+  },
+  {
+    "id": 116,
+    "domain": "antepartum_care",
+    "front": "How is nausea and vomiting of pregnancy managed first-line?",
+    "back": "With dietary strategies such as small frequent meals, ginger, and avoiding triggers, escalating to pyridoxine with or without doxylamine if symptoms are significant."
+  },
+  {
+    "id": 117,
+    "domain": "antepartum_care",
+    "front": "What finding suggests hyperemesis gravidarum rather than typical nausea of pregnancy?",
+    "back": "Persistent vomiting with weight loss or ketosis suggests hyperemesis gravidarum and warrants further assessment rather than routine reassurance alone."
+  },
+  {
+    "id": 118,
+    "domain": "antepartum_care",
+    "front": "What causes heartburn in pregnancy and how is it managed?",
+    "back": "Progesterone-mediated relaxation of the lower esophageal sphincter and later mechanical pressure from the uterus cause it. It is managed with smaller meals, avoiding lying down after eating, and antacids as needed."
+  },
+  {
+    "id": 119,
+    "domain": "antepartum_care",
+    "front": "What causes constipation in pregnancy?",
+    "back": "Slowed gastrointestinal motility from progesterone and iron supplementation. It responds to increased fluid and fibre intake, physical activity, and stool softeners when necessary."
+  },
+  {
+    "id": 120,
+    "domain": "antepartum_care",
+    "front": "What is round ligament pain and when is it benign?",
+    "back": "A sharp or aching sensation in the lower abdomen or groin from stretching round ligaments as the uterus grows. It is benign when positional and not constant."
+  },
+  {
+    "id": 121,
+    "domain": "antepartum_care",
+    "front": "What contributes to back pain and pelvic girdle pain in pregnancy?",
+    "back": "Relaxin-mediated joint laxity and postural changes. Management includes body mechanics education, physiotherapy referral, and supportive measures."
+  },
+  {
+    "id": 122,
+    "domain": "antepartum_care",
+    "front": "What causes varicose veins and hemorrhoids in pregnancy?",
+    "back": "Increased venous pressure and progesterone effects on vessel walls. They are managed with compression, elevation, and topical measures."
+  },
+  {
+    "id": 123,
+    "domain": "antepartum_care",
+    "front": "How are pregnancy-related leg cramps managed?",
+    "back": "With stretching, adequate hydration, and sometimes magnesium supplementation, particularly common in later pregnancy."
+  },
+  {
+    "id": 124,
+    "domain": "antepartum_care",
+    "front": "What signs should prompt a client to call about possible true labour?",
+    "back": "Regular, painful, closely spaced contractions, rupture of membranes, or vaginal bleeding, all of which are distinguished from the normal preparatory discomforts of pregnancy."
+  },
+  {
+    "id": 125,
+    "domain": "antepartum_care",
+    "front": "What is the central task of the midwife across normal antepartum care?",
+    "back": "Ongoing risk assessment within a relationship of trust and informed choice, confirming findings remain normal and recognizing early when consultation or transfer of care is needed."
+  },
+  {
+    "id": 126,
+    "domain": "antepartum_care",
+    "front": "What does gravidity and parity describe in an obstetric history?",
+    "back": "Gravidity is the number of pregnancies a person has had, and parity is the number of births reaching viability, both recorded at the booking visit to inform risk assessment."
+  },
+  {
+    "id": 127,
+    "domain": "antepartum_care",
+    "front": "Why does a midwife ask about birthplace preference early in pregnancy?",
+    "back": "Canadian midwives support planned birth at home, in a birth centre, or in hospital depending on risk status and client choice, so early discussion supports ongoing planning and informed choice."
+  },
+  {
+    "id": 128,
+    "domain": "antepartum_care",
+    "front": "What happens to cardiac output and peripheral vascular resistance in the second trimester?",
+    "back": "Cardiac output continues to rise while peripheral vascular resistance falls, often producing a mild drop in blood pressure that is a normal physiologic finding."
+  },
+  {
+    "id": 129,
+    "domain": "antepartum_care",
+    "front": "What skin changes commonly occur in pregnancy and why?",
+    "back": "Linea nigra and chloasma may appear due to hormonal effects on melanocytes, most noticeable during the second trimester as hormone levels remain elevated."
+  },
+  {
+    "id": 130,
+    "domain": "antepartum_care",
+    "front": "How does regulation of midwifery differ from the CMRE itself?",
+    "back": "Regulation is provincial, with each province or territory having its own midwifery regulatory college, while the CMRE is the shared national entrance examination all candidates must pass."
+  },
+  {
+    "id": 131,
+    "domain": "antepartum_care",
+    "front": "What proportion of real questions on the CMRE reflect normal-course, out-of-hospital care?",
+    "back": "Slightly more than half of real questions reflect normal-course or out-of-hospital care, reflecting the midwifery scope across both settings and both normal and abnormal presentations."
+  },
+  {
+    "id": 132,
+    "domain": "antepartum_care",
+    "front": "What is the significance of an isolated low fundal height finding that resolves on repeat measurement?",
+    "back": "A single measurement outside range should prompt reassessment rather than immediate alarm, but a persistent or worsening trend across visits warrants ultrasound investigation."
+  },
+  {
+    "id": 133,
+    "domain": "antepartum_care",
+    "front": "Why does the midwife perform Leopold's maneuvers later in pregnancy?",
+    "back": "To assess fetal lie, presentation, and engagement of the presenting part, which informs birthplace planning and labour preparation as term approaches."
+  },
+  {
+    "id": 134,
+    "domain": "antepartum_care",
+    "front": "What is the purpose of a comprehensive family history at booking?",
+    "back": "To identify genetic conditions or hereditary risk factors that may affect pregnancy management, screening choices, or the need for early consultation."
+  },
+  {
+    "id": 135,
+    "domain": "antepartum_care",
+    "front": "Why is fetal heart rate documented from around 12 weeks with Doppler?",
+    "back": "Doppler auscultation confirms fetal viability and provides reassurance to both client and midwife, forming part of the routine assessment at each visit."
+  },
+  {
+    "id": 136,
+    "domain": "antepartum_care",
+    "front": "How does mild dilutional anemia differ clinically from anemia requiring treatment?",
+    "back": "Dilutional anemia is a normal finding from plasma volume expansion outpacing red cell mass increase, while true anemia requiring treatment is identified through red cell indices or ferritin testing."
+  },
+  {
+    "id": 137,
+    "domain": "antepartum_care",
+    "front": "What is the role of the midwife when a client declines a recommended screening test?",
+    "back": "To respect the client's autonomy and informed choice, document the discussion, and continue supportive, individualized care without pressuring her to accept the test."
+  },
+  {
+    "id": 138,
+    "domain": "antepartum_care",
+    "front": "Why is a growth chart trend more clinically useful than isolated dating by fundal height alone?",
+    "back": "It reveals the trajectory of fetal growth over time, distinguishing normal variation from a true lag or excess that requires ultrasound assessment and possible consultation."
+  },
+  {
+    "id": 139,
+    "domain": "antepartum_care",
+    "front": "What blood pressure values define gestational hypertension?",
+    "back": "Systolic blood pressure of 140 mmHg or higher, or diastolic of 90 mmHg or higher, on two occasions at least four hours apart, arising after 20 weeks gestation in a client with previously normal blood pressure and no proteinuria."
+  },
+  {
+    "id": 140,
+    "domain": "antepartum_care",
+    "front": "How is preeclampsia distinguished from gestational hypertension?",
+    "back": "Preeclampsia is gestational hypertension plus proteinuria, or, without proteinuria, new evidence of maternal organ dysfunction such as thrombocytopenia, renal insufficiency, elevated liver enzymes, pulmonary edema, or new severe headache or visual disturbance."
+  },
+  {
+    "id": 141,
+    "domain": "antepartum_care",
+    "front": "List four severe features of preeclampsia that mandate urgent transfer.",
+    "back": "Systolic blood pressure of 160 mmHg or higher or diastolic of 110 mmHg or higher, severe persistent headache, visual disturbances, and epigastric or right upper quadrant pain are all severe features requiring urgent transfer."
+  },
+  {
+    "id": 142,
+    "domain": "antepartum_care",
+    "front": "What does HELLP syndrome stand for?",
+    "back": "Hemolysis, elevated liver enzymes, and low platelets. It is a severe variant of preeclampsia and always warrants urgent transfer to hospital."
+  },
+  {
+    "id": 143,
+    "domain": "antepartum_care",
+    "front": "What defines eclampsia?",
+    "back": "A generalized tonic-clonic seizure occurring in a woman with preeclampsia that cannot be attributed to another cause. It is an obstetric emergency requiring immediate transfer."
+  },
+  {
+    "id": 144,
+    "domain": "antepartum_care",
+    "front": "What is the midwife's first priority during an eclamptic seizure?",
+    "back": "Protect the airway, place the client in a left lateral position, ensure safety during the seizure, and arrange emergency transport while preparing magnesium sulphate if within scope."
+  },
+  {
+    "id": 145,
+    "domain": "antepartum_care",
+    "front": "Name three prodromal symptoms that often precede an eclamptic seizure.",
+    "back": "Severe headache, visual changes, and hyperreflexia with clonus commonly precede an eclamptic seizure and should prompt urgent transfer before a seizure occurs."
+  },
+  {
+    "id": 146,
+    "domain": "antepartum_care",
+    "front": "What drug is the treatment of choice for eclamptic seizures?",
+    "back": "Magnesium sulphate is used both to treat an active eclamptic seizure and to prevent recurrence in women with severe preeclampsia or eclampsia."
+  },
+  {
+    "id": 147,
+    "domain": "antepartum_care",
+    "front": "Does new onset gestational hypertension without severe features require consultation or transfer?",
+    "back": "It requires mandatory consultation with an obstetrician or physician. Care may remain shared or return to the midwife depending on the consultant's recommendation and the client's course."
+  },
+  {
+    "id": 148,
+    "domain": "antepartum_care",
+    "front": "When is gestational diabetes typically screened for in Canada?",
+    "back": "Universal screening is typically offered between 24 and 28 weeks gestation, though clients with risk factors may be screened earlier in the first trimester."
+  },
+  {
+    "id": 149,
+    "domain": "antepartum_care",
+    "front": "Describe the two step screening method for gestational diabetes.",
+    "back": "A 50 gram oral glucose challenge test with a one hour venous glucose measurement, followed by a 75 gram or 100 gram oral glucose tolerance test if the initial screen is elevated."
+  },
+  {
+    "id": 150,
+    "domain": "antepartum_care",
+    "front": "What is the one step alternative screening method for gestational diabetes?",
+    "back": "A 75 gram two hour oral glucose tolerance test performed directly, without a preceding challenge test."
+  },
+  {
+    "id": 151,
+    "domain": "antepartum_care",
+    "front": "Why does a gestational diabetes diagnosis usually require consultation?",
+    "back": "Ongoing glycemic management, particularly when pharmacologic therapy such as insulin or metformin is needed, typically falls outside independent midwifery scope and benefits from a collaborative team approach."
+  },
+  {
+    "id": 152,
+    "domain": "antepartum_care",
+    "front": "What are two key antepartum surveillance concerns in gestational diabetes?",
+    "back": "Serial growth assessment given the risk of macrosomia, and monitoring for polyhydramnios, along with attention to blood pressure since hypertensive disorders often coexist."
+  },
+  {
+    "id": 153,
+    "domain": "antepartum_care",
+    "front": "Describe the classic presentation of placenta previa.",
+    "back": "Painless, bright red vaginal bleeding in the second half of pregnancy, often without an identifiable trigger, with a soft nontender uterus and usually a normal fetal heart rate."
+  },
+  {
+    "id": 154,
+    "domain": "antepartum_care",
+    "front": "Why must digital vaginal examination be avoided with known or suspected placenta previa?",
+    "back": "It can provoke catastrophic hemorrhage by disrupting the placenta covering the cervical os, so it must never be performed in this situation."
+  },
+  {
+    "id": 155,
+    "domain": "antepartum_care",
+    "front": "Describe the classic presentation of placental abruption.",
+    "back": "Painful vaginal bleeding, sometimes concealed and therefore minimal externally, with a tender and possibly firm or hypertonic uterus and often fetal heart rate abnormalities."
+  },
+  {
+    "id": 156,
+    "domain": "antepartum_care",
+    "front": "What term describes the rigid abdomen sometimes seen in severe placental abruption?",
+    "back": "A woody or board like abdomen, reflecting a firm, hypertonic uterus caused by concealed hemorrhage behind the placenta."
+  },
+  {
+    "id": 157,
+    "domain": "antepartum_care",
+    "front": "List three risk factors for placental abruption.",
+    "back": "Hypertensive disorders, trauma, and cocaine use are recognized risk factors for placental abruption, along with previous abruption and multiple gestation."
+  },
+  {
+    "id": 158,
+    "domain": "antepartum_care",
+    "front": "What serious coagulation complication can follow severe placental abruption?",
+    "back": "Disseminated intravascular coagulation is a recognized complication of severe abruption due to release of thromboplastin into the maternal circulation."
+  },
+  {
+    "id": 159,
+    "domain": "antepartum_care",
+    "front": "What is vasa previa and why is it dangerous?",
+    "back": "Vasa previa occurs when fetal vessels cross the membranes near the cervix. Rupture of these vessels at membrane rupture can cause rapid fetal exsanguination, requiring emergency cesarean birth."
+  },
+  {
+    "id": 160,
+    "domain": "antepartum_care",
+    "front": "How should any antepartum bleeding with pain or fetal heart rate abnormality be managed?",
+    "back": "It requires urgent transfer regardless of the suspected cause, since these features suggest a potentially serious process such as abruption or fetal compromise."
+  },
+  {
+    "id": 161,
+    "domain": "antepartum_care",
+    "front": "How is preterm labour defined?",
+    "back": "Regular uterine contractions accompanied by cervical change occurring between 20 and 37 completed weeks gestation."
+  },
+  {
+    "id": 162,
+    "domain": "antepartum_care",
+    "front": "Why does early recognition of preterm labour matter clinically?",
+    "back": "It allows time sensitive interventions such as antenatal corticosteroids for fetal lung maturity, magnesium sulphate for neuroprotection before 32 weeks, and transfer to a facility with appropriate neonatal capability."
+  },
+  {
+    "id": 163,
+    "domain": "antepartum_care",
+    "front": "Name two adjunct tests that help assess true preterm labour risk.",
+    "back": "Fetal fibronectin testing and cervical length measurement by ultrasound can help refine the likelihood that true preterm labour is occurring."
+  },
+  {
+    "id": 164,
+    "domain": "antepartum_care",
+    "front": "What symptoms should prompt a client to seek assessment for possible preterm labour?",
+    "back": "Regular contractions, pelvic pressure, low back pain, menstrual like cramping, or a change in vaginal discharge before 37 weeks gestation."
+  },
+  {
+    "id": 165,
+    "domain": "antepartum_care",
+    "front": "What is intrauterine growth restriction?",
+    "back": "A fetus that has not reached its genetically determined growth potential, commonly identified when estimated fetal weight or abdominal circumference falls below the 10th percentile for gestational age."
+  },
+  {
+    "id": 166,
+    "domain": "antepartum_care",
+    "front": "What simple bedside tool screens for fetal growth restriction at every antenatal visit?",
+    "back": "Serial symphysis fundal height measurement, plotted on a standardized growth chart, is a simple and low cost screening tool for growth restriction."
+  },
+  {
+    "id": 167,
+    "domain": "antepartum_care",
+    "front": "Name three maternal contributing factors to intrauterine growth restriction.",
+    "back": "Maternal hypertensive disease, maternal smoking or substance use, and maternal undernutrition are recognized contributing factors to growth restriction."
+  },
+  {
+    "id": 168,
+    "domain": "antepartum_care",
+    "front": "What Doppler finding indicates severe placental compromise in growth restriction?",
+    "back": "Absent or reversed end diastolic flow in the umbilical artery reflects significant placental compromise and requires urgent transfer given elevated stillbirth risk."
+  },
+  {
+    "id": 169,
+    "domain": "antepartum_care",
+    "front": "Why does multiple gestation usually require consultation once diagnosed?",
+    "back": "Multiple gestation is considered outside the scope of independent midwifery care in most Canadian jurisdictions, given its higher risk profile, though shared antepartum care often continues."
+  },
+  {
+    "id": 170,
+    "domain": "antepartum_care",
+    "front": "Why is chorionicity important to establish early in a twin pregnancy?",
+    "back": "Chorionicity determines whether twins share a placenta, which fundamentally changes the risk profile, particularly the risk of twin to twin transfusion syndrome in monochorionic twins."
+  },
+  {
+    "id": 171,
+    "domain": "antepartum_care",
+    "front": "Describe twin to twin transfusion syndrome.",
+    "back": "Unequal blood flow through shared placental vessels in monochorionic twins causes one twin to become a donor with reduced fluid and growth, and the other a recipient with excess fluid and cardiac strain."
+  },
+  {
+    "id": 172,
+    "domain": "antepartum_care",
+    "front": "Name three antepartum risks that are increased in multiple gestation.",
+    "back": "Preterm labour, hypertensive disorders, and gestational diabetes are all increased in multiple gestation, along with growth discordance and malpresentation."
+  },
+  {
+    "id": 173,
+    "domain": "antepartum_care",
+    "front": "From what gestational age should midwives counsel clients on fetal movement patterns?",
+    "back": "Around 26 weeks gestation onward, with clear instructions to report any perceived decrease or change promptly."
+  },
+  {
+    "id": 174,
+    "domain": "antepartum_care",
+    "front": "How should a client's own report of decreased fetal movement be treated?",
+    "back": "It should always be taken seriously and never dismissed, even without a universally agreed movement count defining normal."
+  },
+  {
+    "id": 175,
+    "domain": "antepartum_care",
+    "front": "What is the initial assessment step for reported decreased fetal movement?",
+    "back": "A focused history covering onset, associated symptoms, and risk factors, followed by auscultation or a non stress test to confirm fetal heart rate reactivity."
+  },
+  {
+    "id": 176,
+    "domain": "antepartum_care",
+    "front": "When should decreased fetal movement prompt urgent further assessment?",
+    "back": "When the non stress test is non reactive, risk factors such as growth restriction or hypertension are present, or the client reports absent movement, requiring biophysical profile or Doppler studies."
+  },
+  {
+    "id": 177,
+    "domain": "antepartum_care",
+    "front": "What is Rh isoimmunization?",
+    "back": "The development of maternal anti-D antibodies after an Rh negative woman is exposed to Rh positive fetal red blood cells, which can cause hemolytic disease in a subsequent Rh positive fetus."
+  },
+  {
+    "id": 178,
+    "domain": "antepartum_care",
+    "front": "What is Rh immune globulin commonly known as, and when is it routinely given antenatally?",
+    "back": "Commonly known as WinRho, it is routinely given at 28 weeks gestation to Rh negative, non sensitized clients to prevent formation of anti-D antibodies."
+  },
+  {
+    "id": 179,
+    "domain": "antepartum_care",
+    "front": "When is postpartum Rh immune globulin given?",
+    "back": "Within 72 hours of birth if the newborn is confirmed Rh positive, in addition to the routine antenatal dose already given."
+  },
+  {
+    "id": 180,
+    "domain": "antepartum_care",
+    "front": "Name three potentially sensitizing events that call for extra doses of Rh immune globulin.",
+    "back": "Antepartum hemorrhage, amniocentesis or other invasive procedure, and external cephalic version are all potentially sensitizing events requiring additional Rh immune globulin."
+  },
+  {
+    "id": 181,
+    "domain": "antepartum_care",
+    "front": "How does a positive antibody screen for anti-D change antepartum management?",
+    "back": "It indicates the client is already sensitized, requiring consultation and specialist management with serial antibody titers and possibly middle cerebral artery Doppler surveillance for fetal anemia."
+  },
+  {
+    "id": 182,
+    "domain": "antepartum_care",
+    "front": "What laboratory findings support a diagnosis of thrombocytopenia in preeclampsia?",
+    "back": "Platelet count below 150 x10^9/L is used as a threshold indicating thrombocytopenia consistent with maternal organ dysfunction in preeclampsia."
+  },
+  {
+    "id": 183,
+    "domain": "antepartum_care",
+    "front": "What urine protein to creatinine ratio supports a diagnosis of proteinuria in preeclampsia?",
+    "back": "A urine protein to creatinine ratio of 30 mg/mmol or greater supports a diagnosis of proteinuria, or 2+ or higher on dipstick pending confirmation."
+  },
+  {
+    "id": 184,
+    "domain": "antepartum_care",
+    "front": "Why is preeclampsia sometimes first suspected because of fundal height findings?",
+    "back": "Preeclampsia can present with fetal growth restriction as an early clue, so lagging fundal height should always prompt a blood pressure and urine check."
+  },
+  {
+    "id": 185,
+    "domain": "antepartum_care",
+    "front": "What is the role of provincial consultation and transfer guidelines in antepartum complications?",
+    "back": "They define exactly which findings require mandatory discussion, consultation, or transfer of care so that this judgment is standardized rather than left to individual interpretation."
+  },
+  {
+    "id": 186,
+    "domain": "antepartum_care",
+    "front": "Give an example of a provincial guideline governing consultation and transfer of care.",
+    "back": "Ontario's Indications for Discussion, Consultation and Transfer of Care is an example of a provincial guideline that midwives must apply in their jurisdiction."
+  },
+  {
+    "id": 187,
+    "domain": "antepartum_care",
+    "front": "What is the difference between consultation and transfer of care?",
+    "back": "Consultation means seeking an obstetrician or physician's input while the midwife often remains the most responsible provider, while transfer of care means the physician becomes the most responsible provider."
+  },
+  {
+    "id": 188,
+    "domain": "antepartum_care",
+    "front": "Why is inappropriate or reflexive transfer a concern in the midwifery model?",
+    "back": "It erodes continuity of care, which is central to the midwifery model, and can undermine client trust without necessarily improving outcomes."
+  },
+  {
+    "id": 189,
+    "domain": "antepartum_care",
+    "front": "What organ systems can be affected by maternal dysfunction in preeclampsia besides the kidneys?",
+    "back": "The liver, with elevated transaminases and right upper quadrant pain, and the pulmonary system, with pulmonary edema, can both be affected in preeclampsia."
+  },
+  {
+    "id": 190,
+    "domain": "antepartum_care",
+    "front": "Why should a client with placenta previa never undergo a digital vaginal exam even if bleeding has stopped?",
+    "back": "The risk of provoking sudden catastrophic hemorrhage remains as long as the placenta covers or is near the cervical os, so digital examination stays contraindicated."
+  },
+  {
+    "id": 191,
+    "domain": "antepartum_care",
+    "front": "What is the significance of an abnormal fetal heart rate in a client with vaginal bleeding?",
+    "back": "It suggests fetal compromise, often from abruption or hemorrhage severity, and requires urgent transfer regardless of the presumed cause of bleeding."
+  },
+  {
+    "id": 192,
+    "domain": "antepartum_care",
+    "front": "Why is bloody show sometimes confused with pathological antepartum bleeding?",
+    "back": "Bloody show near term is a normal sign of cervical change in early labour, but it must be distinguished carefully from true antepartum hemorrhage before being dismissed as benign."
+  },
+  {
+    "id": 193,
+    "domain": "antepartum_care",
+    "front": "What antenatal preparation should occur once preterm labour risk factors are identified?",
+    "back": "The midwife should educate the client on preterm labour warning signs well before they occur, so that care is sought promptly if symptoms develop."
+  },
+  {
+    "id": 194,
+    "domain": "antepartum_care",
+    "front": "Why is corticosteroid administration time sensitive in threatened preterm birth?",
+    "back": "Antenatal corticosteroids promote fetal lung maturity and are most effective when given with enough time before birth, making early recognition of preterm labour essential."
+  },
+  {
+    "id": 195,
+    "domain": "antepartum_care",
+    "front": "What gestational age threshold is commonly used for magnesium sulphate neuroprotection in preterm birth?",
+    "back": "Magnesium sulphate for fetal neuroprotection is typically considered when birth is anticipated before 32 weeks gestation."
+  },
+  {
+    "id": 196,
+    "domain": "antepartum_care",
+    "front": "Why is serial growth ultrasound important once growth restriction is suspected?",
+    "back": "It allows tracking of the fetal growth trajectory and, combined with umbilical artery Doppler, helps determine whether ongoing intrauterine compromise outweighs the risks of preterm birth."
+  },
+  {
+    "id": 197,
+    "domain": "antepartum_care",
+    "front": "How does maternal smoking relate to fetal growth restriction?",
+    "back": "Maternal smoking is a recognized contributing factor to placental insufficiency and fetal growth restriction, and should be addressed in antepartum counselling."
+  },
+  {
+    "id": 198,
+    "domain": "antepartum_care",
+    "front": "Why does discordant growth between twins raise clinical concern?",
+    "back": "Significant growth discordance between twins can signal placental insufficiency to one twin or a complication such as twin to twin transfusion syndrome, warranting specialist referral."
+  },
+  {
+    "id": 199,
+    "domain": "antepartum_care",
+    "front": "What birth setting counselling is appropriate for a client carrying twins?",
+    "back": "The midwife should counsel that hospital birth is generally required and that operative birth for the second twin remains a possibility, given the higher risk profile of multiple gestation."
+  },
+  {
+    "id": 200,
+    "domain": "antepartum_care",
+    "front": "Why should a midwife never rely on reassurance alone when a client reports absent fetal movement?",
+    "back": "Absent movement can be an early warning sign of placental insufficiency or, rarely, precede fetal demise, so any red flag requires further objective assessment."
+  },
+  {
+    "id": 201,
+    "domain": "antepartum_care",
+    "front": "What is the purpose of the antibody screen performed alongside blood type at the first antenatal visit?",
+    "back": "The antibody screen identifies whether an Rh negative client has already developed anti-D antibodies, which determines whether Rh immune globulin will be effective or whether she is already sensitized."
+  },
+  {
+    "id": 202,
+    "domain": "antepartum_care",
+    "front": "Why is informed choice especially relevant to counselling about Rh immune globulin?",
+    "back": "Rh immune globulin is derived from human plasma, so clients should be given balanced information to make an informed decision about accepting or declining the product."
+  },
+  {
+    "id": 203,
+    "domain": "antepartum_care",
+    "front": "What risk does a missed dose of Rh immune globulin carry?",
+    "back": "A missed antenatal or postpartum dose meaningfully increases the risk of maternal sensitization to Rh positive fetal blood in a future pregnancy."
+  },
+  {
+    "id": 204,
+    "domain": "antepartum_care",
+    "front": "Why must a midwife document consultations clearly in antepartum complications?",
+    "back": "Clear documentation supports continuity of care, communicates the clinical reasoning behind decisions, and ensures the client's informed choice process is properly recorded."
+  },
+  {
+    "id": 205,
+    "domain": "antepartum_care",
+    "front": "What overall judgment does the CMRE test regarding antepartum complications?",
+    "back": "It tests the ability to weigh severity, gestational age, and available resources to select the single most appropriate next step along the spectrum from ongoing care to consultation to transfer."
+  },
+  {
+    "id": 206,
+    "domain": "intrapartum_care",
+    "front": "What defines the first stage of labour?",
+    "back": "The first stage begins with regular contractions causing cervical change and ends with full dilation at 10 cm. It is divided into the latent phase (slow dilation) and the active phase (faster, accelerating dilation)."
+  },
+  {
+    "id": 207,
+    "domain": "intrapartum_care",
+    "front": "At what dilation does active labour typically begin?",
+    "back": "Active labour is generally considered to begin around 5 to 6 cm in most contemporary labour curves, marked by stronger contractions and cervical change of at least 1 cm per hour in a first labour."
+  },
+  {
+    "id": 208,
+    "domain": "intrapartum_care",
+    "front": "What are the two phases of the second stage of labour?",
+    "back": "The passive phase, where the fetal head descends without an urge to push, and the active pushing phase, where the person experiences a strong involuntary urge to bear down."
+  },
+  {
+    "id": 209,
+    "domain": "intrapartum_care",
+    "front": "What is meant by 'labouring down'?",
+    "back": "Allowing a period of passive fetal descent after full dilation before active pushing begins. It can reduce maternal fatigue and shorten the total time spent actively pushing."
+  },
+  {
+    "id": 210,
+    "domain": "intrapartum_care",
+    "front": "What defines the third stage of labour?",
+    "back": "The third stage begins immediately after the baby is born and ends with delivery of the placenta and membranes."
+  },
+  {
+    "id": 211,
+    "domain": "intrapartum_care",
+    "front": "What is assessed during the first one to two hours postpartum?",
+    "back": "Sometimes called the fourth stage, this period involves close observation of uterine tone, vaginal bleeding, and early maternal recovery to detect postpartum hemorrhage promptly."
+  },
+  {
+    "id": 212,
+    "domain": "intrapartum_care",
+    "front": "What history should be taken on admission in labour?",
+    "back": "Onset, frequency, and intensity of contractions, status of membranes and fluid colour if ruptured, presence of vaginal bleeding, and fetal movement, alongside a review of the antenatal record for risk factors."
+  },
+  {
+    "id": 213,
+    "domain": "intrapartum_care",
+    "front": "What does an abdominal examination in labour establish?",
+    "back": "Fundal height, fetal lie, presentation, and position via Leopold's maneuvers, an estimate of fetal weight, and the frequency, duration, and strength of contractions by palpation."
+  },
+  {
+    "id": 214,
+    "domain": "intrapartum_care",
+    "front": "What does a vaginal examination in labour assess?",
+    "back": "Cervical dilation, effacement, consistency, position, and station of the presenting part, and status of the membranes if not already known. It is performed only with informed consent when it will change the plan of care."
+  },
+  {
+    "id": 215,
+    "domain": "intrapartum_care",
+    "front": "What is the Bishop score used for?",
+    "back": "A standardized tool predicting the likelihood of successful induction and describing cervical readiness for labour, scored from the cervical exam."
+  },
+  {
+    "id": 216,
+    "domain": "intrapartum_care",
+    "front": "What five components make up the Bishop score?",
+    "back": "Cervical dilation, effacement, consistency, position, and fetal station, each scored 0 to 3, for a maximum total of 13."
+  },
+  {
+    "id": 217,
+    "domain": "intrapartum_care",
+    "front": "What Bishop score is generally considered favourable for induction?",
+    "back": "A score of 8 or higher is favourable and predicts a course similar to spontaneous labour. A score below 6 is unfavourable and suggests a higher chance of a prolonged or unsuccessful induction."
+  },
+  {
+    "id": 218,
+    "domain": "intrapartum_care",
+    "front": "How is cervical position scored on the Bishop score?",
+    "back": "Posterior position scores 0, mid position scores 1, and anterior position scores 2."
+  },
+  {
+    "id": 219,
+    "domain": "intrapartum_care",
+    "front": "How is cervical consistency scored on the Bishop score?",
+    "back": "Firm consistency scores 0, medium consistency scores 1, and soft consistency scores 2."
+  },
+  {
+    "id": 220,
+    "domain": "intrapartum_care",
+    "front": "What is the recommended method of fetal surveillance for low-risk labour?",
+    "back": "Intermittent auscultation, typically with a handheld Doppler, rather than continuous electronic fetal monitoring, which increases intervention rates without improving neonatal outcomes in low-risk populations."
+  },
+  {
+    "id": 221,
+    "domain": "intrapartum_care",
+    "front": "How is intermittent auscultation performed in labour?",
+    "back": "The fetal heart is listened to for a full minute immediately after a contraction to detect any deceleration, with maternal pulse also checked to differentiate maternal from fetal heart sounds."
+  },
+  {
+    "id": 222,
+    "domain": "intrapartum_care",
+    "front": "How often is intermittent auscultation typically performed in active first stage versus second stage?",
+    "back": "Every 15 to 30 minutes in the active phase of the first stage, and every 5 minutes or after every second or third contraction in the second stage, per provincial protocol."
+  },
+  {
+    "id": 223,
+    "domain": "intrapartum_care",
+    "front": "What is a normal fetal heart rate baseline in labour?",
+    "back": "110 to 160 beats per minute with moderate variability and no decelerations following a contraction."
+  },
+  {
+    "id": 224,
+    "domain": "intrapartum_care",
+    "front": "What findings on auscultation should prompt continuous electronic fetal monitoring?",
+    "back": "A baseline outside 110 to 160 beats per minute, reduced variability, or any deceleration, especially one persisting after the contraction ends, which raises concern for uteroplacental insufficiency."
+  },
+  {
+    "id": 225,
+    "domain": "intrapartum_care",
+    "front": "Name three intrapartum risk factors that would shift a low-risk labour to continuous monitoring.",
+    "back": "Thick meconium-stained fluid, an abnormal auscultated pattern, and maternal fever, among others such as oxytocin augmentation."
+  },
+  {
+    "id": 226,
+    "domain": "intrapartum_care",
+    "front": "What is one of the most evidence-supported interventions for coping with labour pain?",
+    "back": "Continuous labour support from the midwife, a doula, or a trusted companion, associated with shorter labours, less analgesia use, and higher satisfaction with the birth."
+  },
+  {
+    "id": 227,
+    "domain": "intrapartum_care",
+    "front": "Name three non-pharmacologic comfort measures midwives support in labour.",
+    "back": "Movement and position changes, hydrotherapy such as a warm tub or shower, and heat or cold packs applied to the lower back or abdomen."
+  },
+  {
+    "id": 228,
+    "domain": "intrapartum_care",
+    "front": "What is a sterile water injection used for in labour?",
+    "back": "It is used for relief of severe back labour pain, typically injected intradermally over the sacrum."
+  },
+  {
+    "id": 229,
+    "domain": "intrapartum_care",
+    "front": "How does continuous labour support affect birth outcomes?",
+    "back": "It is associated with shorter labours, reduced need for pharmacologic pain relief, and greater satisfaction with the birth experience."
+  },
+  {
+    "id": 230,
+    "domain": "intrapartum_care",
+    "front": "What role does the midwife play if a client chooses epidural analgesia?",
+    "back": "She facilitates access to the analgesia, continues to provide support, and consults or transfers primary care as appropriate to the chosen analgesia and birth setting."
+  },
+  {
+    "id": 231,
+    "domain": "intrapartum_care",
+    "front": "Why are upright and mobile positions encouraged in the first stage of labour?",
+    "back": "They are associated with shorter labour and allow the fetus to find the path of least resistance through the maternal pelvis, aiding progress and pain coping."
+  },
+  {
+    "id": 232,
+    "domain": "intrapartum_care",
+    "front": "What positions may benefit the second stage of labour?",
+    "back": "Squatting, kneeling, standing, or supported hands-and-knees, which can increase pelvic outlet dimensions and are associated with fewer instrumental births compared with supine lithotomy."
+  },
+  {
+    "id": 233,
+    "domain": "intrapartum_care",
+    "front": "When might a side-lying position be recommended in second stage?",
+    "back": "To help reduce perineal trauma, to assist closer fetal heart auscultation, or when the birthing person is fatigued."
+  },
+  {
+    "id": 234,
+    "domain": "intrapartum_care",
+    "front": "List the cardinal movements of labour in order for an occiput anterior fetus.",
+    "back": "Engagement, descent, flexion, internal rotation, extension, external rotation (restitution), and expulsion of the shoulders and body."
+  },
+  {
+    "id": 235,
+    "domain": "intrapartum_care",
+    "front": "What is engagement in the cardinal movements of labour?",
+    "back": "Engagement occurs when the widest diameter of the fetal head passes the pelvic inlet."
+  },
+  {
+    "id": 236,
+    "domain": "intrapartum_care",
+    "front": "What happens during flexion of the fetal head?",
+    "back": "The fetal head flexes onto the chest, allowing the smallest possible diameter of the head to present through the pelvis."
+  },
+  {
+    "id": 237,
+    "domain": "intrapartum_care",
+    "front": "What is internal rotation in the cardinal movements?",
+    "back": "The fetal occiput rotates to align with the maternal pubic symphysis, typically moving from a transverse to an anterior position as the head descends."
+  },
+  {
+    "id": 238,
+    "domain": "intrapartum_care",
+    "front": "What is restitution (external rotation)?",
+    "back": "After the head is born, it rotates back to its natural alignment with the shoulders as the shoulders internally rotate to fit the pelvic outlet."
+  },
+  {
+    "id": 239,
+    "domain": "intrapartum_care",
+    "front": "Why is it important to understand the cardinal movements of labour?",
+    "back": "It allows the midwife to anticipate normal descent and rotation and to recognize deviations, such as malposition or cephalopelvic disproportion, that may require reassessment or consultation."
+  },
+  {
+    "id": 240,
+    "domain": "intrapartum_care",
+    "front": "How should the midwife support spontaneous bearing-down efforts?",
+    "back": "By allowing the client to push according to her own urges rather than imposing directed, sustained breath-holding pushing unless it is clinically indicated."
+  },
+  {
+    "id": 241,
+    "domain": "intrapartum_care",
+    "front": "What should the midwife check for immediately after the fetal head is born?",
+    "back": "A nuchal cord, which should be reduced if loose, or clamped and cut promptly if tight and reduction is not possible, before restitution and delivery of the shoulders."
+  },
+  {
+    "id": 242,
+    "domain": "intrapartum_care",
+    "front": "What is done immediately after birth to support the newborn?",
+    "back": "The baby is placed skin to skin on the birthing person's chest, dried and covered to prevent heat loss, while the midwife performs a rapid assessment of tone, colour, and respiratory effort."
+  },
+  {
+    "id": 243,
+    "domain": "intrapartum_care",
+    "front": "What is active management of the third stage of labour?",
+    "back": "Administration of a uterotonic such as oxytocin around the time of birth, and controlled cord traction with counter-pressure on the uterus once signs of placental separation appear."
+  },
+  {
+    "id": 244,
+    "domain": "intrapartum_care",
+    "front": "How does active management affect postpartum hemorrhage risk?",
+    "back": "It reduces the risk and severity of postpartum hemorrhage compared with expectant (physiologic) management and is generally recommended, especially for those with hemorrhage risk factors."
+  },
+  {
+    "id": 245,
+    "domain": "intrapartum_care",
+    "front": "What is physiologic (expectant) management of the third stage?",
+    "back": "No prophylactic uterotonic is given, the cord is not clamped until pulsation ceases or the placenta is delivered, and the placenta is birthed through maternal effort, gravity, and endogenous oxytocin from skin-to-skin contact and breastfeeding."
+  },
+  {
+    "id": 246,
+    "domain": "intrapartum_care",
+    "front": "What is the current recommendation on cord clamping timing?",
+    "back": "Delayed cord clamping for at least 60 seconds, and often longer, is recommended for most births regardless of third stage approach, due to benefits including improved neonatal iron stores."
+  },
+  {
+    "id": 247,
+    "domain": "intrapartum_care",
+    "front": "List two signs of placental separation.",
+    "back": "A gush of blood and lengthening of the umbilical cord at the introitus. Other signs include a rise of the fundus and a change in uterine shape from discoid to globular."
+  },
+  {
+    "id": 248,
+    "domain": "intrapartum_care",
+    "front": "What is examined after the placenta is delivered?",
+    "back": "The placenta and membranes are checked for completeness, and the perineum, labia, and vaginal walls are inspected for lacerations requiring repair."
+  },
+  {
+    "id": 249,
+    "domain": "intrapartum_care",
+    "front": "What is the Apgar score used for?",
+    "back": "A standardized summary of a newborn's condition at 1 and 5 minutes of age, evaluating heart rate, respiratory effort, muscle tone, reflex irritability, and colour."
+  },
+  {
+    "id": 250,
+    "domain": "intrapartum_care",
+    "front": "What Apgar total score is considered normal?",
+    "back": "A total score of 7 to 10 is considered normal. A score of 4 to 6 suggests the baby may need some resuscitative assistance, and 0 to 3 indicates the need for immediate resuscitation."
+  },
+  {
+    "id": 251,
+    "domain": "intrapartum_care",
+    "front": "How is heart rate scored on the Apgar score?",
+    "back": "Absent heart rate scores 0, below 100 beats per minute scores 1, and 100 beats per minute or above scores 2."
+  },
+  {
+    "id": 252,
+    "domain": "intrapartum_care",
+    "front": "How is respiratory effort scored on the Apgar score?",
+    "back": "Absent respiratory effort scores 0, slow or irregular effort scores 1, and good effort or crying scores 2."
+  },
+  {
+    "id": 253,
+    "domain": "intrapartum_care",
+    "front": "How is colour scored on the Apgar score?",
+    "back": "Blue or pale colour throughout scores 0, body pink with blue extremities scores 1, and completely pink scores 2."
+  },
+  {
+    "id": 254,
+    "domain": "intrapartum_care",
+    "front": "Does a low Apgar score delay resuscitation efforts?",
+    "back": "No. Resuscitation, if needed, is never delayed to wait for a scheduled Apgar assessment. Apgar is a summary tool, not a replacement for continuous clinical observation."
+  },
+  {
+    "id": 255,
+    "domain": "intrapartum_care",
+    "front": "What is the 'golden hour' after birth?",
+    "back": "The first hour of life, when uninterrupted skin-to-skin contact and the first breastfeeding attempt are facilitated to support attachment and successful breastfeeding establishment."
+  },
+  {
+    "id": 256,
+    "domain": "intrapartum_care",
+    "front": "When are weight, length, and head circumference typically measured after birth?",
+    "back": "Usually after the initial period of skin-to-skin contact and early breastfeeding, so as not to interrupt bonding."
+  },
+  {
+    "id": 257,
+    "domain": "intrapartum_care",
+    "front": "What newborn interventions are offered per informed consent shortly after birth?",
+    "back": "Vitamin K administration and eye prophylaxis, generally offered within the first few hours of life according to provincial protocol."
+  },
+  {
+    "id": 258,
+    "domain": "intrapartum_care",
+    "front": "What settings can Canadian midwives attend births in?",
+    "back": "Home, freestanding birth centres, and hospitals. Choice of birthplace for a low-risk pregnancy is a core part of the midwifery model of care."
+  },
+  {
+    "id": 259,
+    "domain": "intrapartum_care",
+    "front": "What equipment does a midwife bring to a planned home birth?",
+    "back": "Oxygen, newborn resuscitation equipment, medications for postpartum hemorrhage, and supplies for suturing and intravenous access, along with a rehearsed plan for transfer to hospital if needed."
+  },
+  {
+    "id": 260,
+    "domain": "intrapartum_care",
+    "front": "How many attendants are present at a planned home birth?",
+    "back": "The midwife and a second attendant, both trained to manage a low-risk birth and respond to emergencies."
+  },
+  {
+    "id": 261,
+    "domain": "intrapartum_care",
+    "front": "What does Canadian evidence show about planned home birth with a registered midwife?",
+    "back": "For carefully selected low-risk clients, it results in comparable neonatal outcomes and lower rates of maternal intervention compared with planned hospital birth, provided risk screening and timely transfer protocols are followed."
+  },
+  {
+    "id": 262,
+    "domain": "intrapartum_care",
+    "front": "What is the midwife's role for a low-risk client giving birth in hospital?",
+    "back": "She retains primary responsibility for care in most Canadian jurisdictions, ordering routine tests and medications within her scope, while having ready access to obstetric, anesthesia, and pediatric consultation."
+  },
+  {
+    "id": 263,
+    "domain": "intrapartum_care",
+    "front": "What triggers consultation or transfer of care during labour?",
+    "back": "Any finding that falls outside the midwife's normal scope of practice, following provincial guidelines such as Ontario's Indications for Discussion, Consultation and Transfer of Care."
+  },
+  {
+    "id": 264,
+    "domain": "intrapartum_care",
+    "front": "What core responsibilities remain constant across all birth settings?",
+    "back": "Continuous assessment of maternal and fetal wellbeing, recognition of the boundary between normal and abnormal, respectful communication with the client, and timely documented consultation or transfer when labour departs from normal."
+  },
+  {
+    "id": 265,
+    "domain": "intrapartum_care",
+    "front": "Why is water birth offered by some midwives?",
+    "back": "Hydrotherapy in a warm tub can be continued into the second stage for pain relief and relaxation where the midwife has appropriate training and equipment and no contraindications exist."
+  },
+  {
+    "id": 266,
+    "domain": "intrapartum_care",
+    "front": "What effect does epidural analgesia have on second stage management?",
+    "back": "It can blunt the urge to push, making a period of passive descent (labouring down) before active pushing especially useful to reduce maternal fatigue."
+  },
+  {
+    "id": 267,
+    "domain": "intrapartum_care",
+    "front": "What is the significance of a deceleration that persists after a contraction ends?",
+    "back": "It raises concern for uteroplacental insufficiency and warrants prompt reassessment, maternal repositioning, and consideration of consultation."
+  },
+  {
+    "id": 268,
+    "domain": "intrapartum_care",
+    "front": "What documentation accompanies intermittent auscultation findings?",
+    "back": "The baseline rate, presence of accelerations, absence of decelerations, and maternal pulse to confirm the fetal heart sound was correctly identified."
+  },
+  {
+    "id": 269,
+    "domain": "intrapartum_care",
+    "front": "What is the role of hands-on or hands-poised perineal support at crowning?",
+    "back": "It aims to reduce the risk of severe perineal trauma as the fetal head passes under the symphysis and is born."
+  },
+  {
+    "id": 270,
+    "domain": "intrapartum_care",
+    "front": "What is extension in the cardinal movements of labour?",
+    "back": "The fetal head extends as it passes under the pubic symphysis, allowing the head to crown and be born."
+  },
+  {
+    "id": 271,
+    "domain": "intrapartum_care",
+    "front": "How does station of 0 to minus 1 score on the Bishop score?",
+    "back": "Station of minus 1 or 0 scores 2 points on the Bishop score, reflecting a well-descended presenting part."
+  },
+  {
+    "id": 272,
+    "domain": "intrapartum_care",
+    "front": "What is a normal rate of cervical dilation in active first stage labour for a first-time mother?",
+    "back": "At least 1 cm per hour is generally expected once active labour is established, often faster in a subsequent labour."
+  },
+  {
+    "id": 273,
+    "domain": "intrapartum_care",
+    "front": "Why do midwives avoid a rigid schedule for repeat vaginal examinations?",
+    "back": "Repeated exams are only performed when they will meaningfully change the plan of care, respecting the client's autonomy and comfort rather than following an arbitrary interval."
+  },
+  {
+    "id": 274,
+    "domain": "intrapartum_care",
+    "front": "What maternal signs are monitored closely regardless of third stage management approach?",
+    "back": "Signs of excessive bleeding, uterine tone, and general wellbeing, with the midwife prepared to move to active measures such as uterotonics and uterine massage if hemorrhage develops."
+  },
+  {
+    "id": 275,
+    "domain": "intrapartum_care",
+    "front": "What is the fourth stage of labour sometimes used to describe?",
+    "back": "The first one to two hours postpartum, when the birthing person is closely observed for hemorrhage, uterine tone, and early recovery."
+  },
+  {
+    "id": 276,
+    "domain": "intrapartum_care",
+    "front": "What is the normal fetal heart rate baseline range?",
+    "back": "110 to 160 beats per minute over a 10 minute segment. A baseline above 160 for 10 minutes or more is tachycardia, and below 110 for 10 minutes or more is bradycardia."
+  },
+  {
+    "id": 277,
+    "domain": "intrapartum_care",
+    "front": "Why is moderate fetal heart rate variability considered the most reassuring finding?",
+    "back": "Moderate variability reflects an intact fetal autonomic nervous system and correlates strongly with the absence of significant fetal acidemia at that moment. Minimal or absent variability is a more concerning finding that needs further assessment."
+  },
+  {
+    "id": 278,
+    "domain": "intrapartum_care",
+    "front": "What causes early decelerations and are they concerning?",
+    "back": "Early decelerations mirror the shape and timing of the contraction and are caused by fetal head compression as the head descends. They are a benign, expected finding in active labour and do not require intervention."
+  },
+  {
+    "id": 279,
+    "domain": "intrapartum_care",
+    "front": "What causes variable decelerations?",
+    "back": "Variable decelerations have an abrupt onset and offset with variable shape, depth, and duration, and are caused by umbilical cord compression. Occasional mild variable decelerations are common, but recurrent or severe ones need closer evaluation."
+  },
+  {
+    "id": 280,
+    "domain": "intrapartum_care",
+    "front": "What causes late decelerations and why are they significant?",
+    "back": "Late decelerations begin after the peak of the contraction and return to baseline after it ends, reflecting uteroplacental insufficiency and reduced fetal oxygen delivery. Recurrent late decelerations require immediate intrauterine resuscitation and prompt consultation."
+  },
+  {
+    "id": 281,
+    "domain": "intrapartum_care",
+    "front": "List the components of intrauterine resuscitation.",
+    "back": "Reposition the client laterally to relieve aortocaval compression, discontinue oxytocin if running, offer an intravenous fluid bolus, apply supplemental oxygen if hypoxia is suspected, and correct any identified cause such as cord prolapse or tachysystole."
+  },
+  {
+    "id": 282,
+    "domain": "intrapartum_care",
+    "front": "What is the recommended method of fetal surveillance for low-risk labouring clients in Canadian midwifery care?",
+    "back": "Intermittent auscultation with a Doppler device, performed before, during, and after a contraction at intervals that increase in frequency as labour advances. Continuous electronic monitoring is reserved for clients with identified risk factors."
+  },
+  {
+    "id": 283,
+    "domain": "intrapartum_care",
+    "front": "When does a fetal heart rate pattern warrant classification as abnormal and requiring emergency response?",
+    "back": "A sinusoidal rhythm, absent variability with recurrent late or variable decelerations, or a substantial bradycardia are abnormal patterns associated with significant fetal compromise and require immediate intervention and urgent obstetric consultation or transfer."
+  },
+  {
+    "id": 284,
+    "domain": "intrapartum_care",
+    "front": "Define active phase arrest of labour.",
+    "back": "No cervical change over about 4 hours with adequate uterine contractions, or 6 hours with inadequate contractions once oxytocin augmentation has been optimized, interpreted alongside fetal wellbeing and maternal condition, not by the clock alone."
+  },
+  {
+    "id": 285,
+    "domain": "intrapartum_care",
+    "front": "What is dystocia and what three factors commonly contribute to it?",
+    "back": "Dystocia is difficult or abnormal progress of labour. It arises from problems with the powers (inadequate contractions), the passenger (fetal size or position), or the passage (pelvic architecture or soft tissue obstruction)."
+  },
+  {
+    "id": 286,
+    "domain": "intrapartum_care",
+    "front": "What defines a prolonged second stage in a nulliparous client without an epidural?",
+    "back": "Generally more than 3 hours of active pushing without an epidural, with a longer threshold when an epidural is used. Thresholds vary somewhat by provincial guideline and are interpreted alongside fetal status."
+  },
+  {
+    "id": 287,
+    "domain": "intrapartum_care",
+    "front": "What first-line measures address dystocia caused by inadequate contractions?",
+    "back": "Encourage maternal mobility and position changes, ensure adequate hydration, empty the bladder, use comfort measures, and consider amniotomy or oxytocin augmentation once membranes are intact or contractions are confirmed inadequate."
+  },
+  {
+    "id": 288,
+    "domain": "intrapartum_care",
+    "front": "What is the turtle sign and what does it indicate?",
+    "back": "The turtle sign is retraction of the fetal head against the perineum immediately after delivery instead of normal restitution. It is the classic warning sign of shoulder dystocia."
+  },
+  {
+    "id": 289,
+    "domain": "intrapartum_care",
+    "front": "What actions should be avoided when managing shoulder dystocia?",
+    "back": "Avoid downward traction on the fetal head, fundal pressure, and excessive lateral flexion of the fetal neck, since all of these increase the risk of brachial plexus injury or fracture without resolving the impaction."
+  },
+  {
+    "id": 290,
+    "domain": "intrapartum_care",
+    "front": "Describe the McRoberts maneuver.",
+    "back": "The maternal hips are hyperflexed sharply onto the abdomen, which flattens the sacral promontory and rotates the pelvis, freeing the impacted anterior shoulder in many cases of shoulder dystocia."
+  },
+  {
+    "id": 291,
+    "domain": "intrapartum_care",
+    "front": "How is suprapubic pressure applied during shoulder dystocia management?",
+    "back": "An assistant applies pressure just above the maternal pubic symphysis, directed downward and laterally, to adduct the anterior fetal shoulder and dislodge it, typically used together with the McRoberts maneuver."
+  },
+  {
+    "id": 292,
+    "domain": "intrapartum_care",
+    "front": "Describe the Woods screw maneuver.",
+    "back": "Pressure is applied to the anterior aspect of the posterior fetal shoulder to rotate it in a corkscrew fashion into an oblique diameter, helping to free the impacted anterior shoulder."
+  },
+  {
+    "id": 293,
+    "domain": "intrapartum_care",
+    "front": "Describe delivery of the posterior arm as a shoulder dystocia maneuver.",
+    "back": "The midwife sweeps the fetal posterior arm across the chest and delivers it first, which reduces the effective diameter of the shoulder girdle and often resolves the impaction."
+  },
+  {
+    "id": 294,
+    "domain": "intrapartum_care",
+    "front": "What is the Gaskin maneuver and when is it used?",
+    "back": "The client is repositioned onto hands and knees, which changes maternal pelvic dimensions and uses gravity to assist. It is used when initial maneuvers for shoulder dystocia have not resolved the impaction."
+  },
+  {
+    "id": 295,
+    "domain": "intrapartum_care",
+    "front": "What must be documented after a shoulder dystocia?",
+    "back": "Time of head delivery, time of body delivery, maneuvers used and their sequence, personnel present, estimated blood loss, and the newborn's condition including signs of injury on examination."
+  },
+  {
+    "id": 296,
+    "domain": "intrapartum_care",
+    "front": "Name three risk factors for shoulder dystocia.",
+    "back": "Fetal macrosomia, maternal diabetes, and post-term pregnancy are recognized risk factors, though most cases occur with no identifiable risk factor present."
+  },
+  {
+    "id": 297,
+    "domain": "intrapartum_care",
+    "front": "Why must every midwife be prepared to manage shoulder dystocia independently, even at a home birth?",
+    "back": "Most cases occur without warning or risk factors, and transfer is not possible once the fetal head has already delivered, so the midwife must be equipped and rehearsed to complete the sequence on site."
+  },
+  {
+    "id": 298,
+    "domain": "intrapartum_care",
+    "front": "What distinguishes overt from occult umbilical cord prolapse?",
+    "back": "In overt prolapse the cord descends ahead of the presenting part through the cervix, sometimes visible at the introitus. In occult prolapse the cord lies alongside the presenting part without passing beyond it."
+  },
+  {
+    "id": 299,
+    "domain": "intrapartum_care",
+    "front": "What immediate action relieves pressure on a prolapsed cord?",
+    "back": "The midwife manually elevates the presenting part off the cord using a gloved hand kept in the vagina until delivery or handover to obstetric care, while arranging emergency transfer."
+  },
+  {
+    "id": 300,
+    "domain": "intrapartum_care",
+    "front": "What maternal positions help manage cord prolapse during transport?",
+    "back": "Knee chest position or steep Trendelenburg position use gravity to shift the presenting part away from the pelvis and reduce compression on the prolapsed cord."
+  },
+  {
+    "id": 301,
+    "domain": "intrapartum_care",
+    "front": "Should a visibly prolapsed cord be pushed back into the vagina?",
+    "back": "No. The cord should be handled minimally and kept warm and moist but not manipulated or replaced, since handling can precipitate vasospasm and worsen fetal compromise."
+  },
+  {
+    "id": 302,
+    "domain": "intrapartum_care",
+    "front": "What bladder-filling technique helps manage cord prolapse during transport?",
+    "back": "Filling the bladder with several hundred millilitres of saline through an indwelling catheter elevates the presenting part off the prolapsed cord, reducing compression while transport is arranged."
+  },
+  {
+    "id": 303,
+    "domain": "intrapartum_care",
+    "front": "Why should the midwife confirm engagement of the presenting part before amniotomy?",
+    "back": "Rupturing membranes with an unengaged presenting part risks the cord slipping down alongside or ahead of the presenting part, causing cord prolapse."
+  },
+  {
+    "id": 304,
+    "domain": "intrapartum_care",
+    "front": "Define frank, complete, and footling breech.",
+    "back": "Frank breech has the legs extended upward with feet near the head. Complete breech has the hips and knees both flexed. Footling breech has one or both feet presenting below the buttocks."
+  },
+  {
+    "id": 305,
+    "domain": "intrapartum_care",
+    "front": "What is external cephalic version and who performs it?",
+    "back": "External cephalic version is a manual attempt to turn a breech fetus to cephalic presentation through the maternal abdominal wall. It is performed by an obstetrician, typically after 36 weeks, with monitoring and tocolysis available."
+  },
+  {
+    "id": 306,
+    "domain": "intrapartum_care",
+    "front": "What is the midwife's role regarding external cephalic version?",
+    "back": "The midwife counsels on candidacy, success rates, and risks such as placental abruption, and refers for the procedure in a timely manner, since success declines as gestation advances, but does not perform the version herself."
+  },
+  {
+    "id": 307,
+    "domain": "intrapartum_care",
+    "front": "What is the usual mode of delivery for persistent breech presentation in Canada?",
+    "back": "Planned cesarean section is the mode of delivery for the majority of persistent breech presentations, given the limited availability of practitioners experienced in vaginal breech birth."
+  },
+  {
+    "id": 308,
+    "domain": "intrapartum_care",
+    "front": "How should a midwife manage an unplanned breech birth occurring out of hospital?",
+    "back": "Using a hands off, minimal intervention approach that allows the birth to progress with the least possible manipulation, while facilitating urgent transfer and calling for additional support."
+  },
+  {
+    "id": 309,
+    "domain": "intrapartum_care",
+    "front": "How is postpartum hemorrhage defined after vaginal birth versus cesarean section?",
+    "back": "Blood loss of 500 mL or more after vaginal birth, or 1000 mL or more after cesarean section, or any blood loss accompanied by signs of hemodynamic instability."
+  },
+  {
+    "id": 310,
+    "domain": "intrapartum_care",
+    "front": "What are the four T's of postpartum hemorrhage?",
+    "back": "Tone (uterine atony), tissue (retained placenta or membranes), trauma (lacerations, uterine rupture, or hematoma), and thrombin (coagulopathy)."
+  },
+  {
+    "id": 311,
+    "domain": "intrapartum_care",
+    "front": "What is the most common cause of postpartum hemorrhage?",
+    "back": "Uterine atony, often associated with overdistension of the uterus from macrosomia or multiple gestation, prolonged labour, high parity, and chorioamnionitis."
+  },
+  {
+    "id": 312,
+    "domain": "intrapartum_care",
+    "front": "What does active management of the third stage of labour involve?",
+    "back": "Prophylactic oxytocin given with delivery of the anterior shoulder or immediately after birth, controlled cord traction, and uterine massage, all of which reduce the incidence and severity of postpartum hemorrhage."
+  },
+  {
+    "id": 313,
+    "domain": "intrapartum_care",
+    "front": "What is the first line uterotonic for postpartum hemorrhage?",
+    "back": "Oxytocin, given by intramuscular or intravenous route, is the first line agent used to manage uterine atony and postpartum hemorrhage."
+  },
+  {
+    "id": 314,
+    "domain": "intrapartum_care",
+    "front": "Name a contraindication each for ergometrine and carboprost.",
+    "back": "Ergometrine is contraindicated in hypertension. Carboprost is contraindicated in asthma. Both are considered second line uterotonics used when oxytocin alone is not sufficient."
+  },
+  {
+    "id": 315,
+    "domain": "intrapartum_care",
+    "front": "How is bimanual uterine compression performed?",
+    "back": "One hand is placed as a fist in the vagina against the anterior uterine wall while the other hand compresses the fundus abdominally, applying firm compression until bleeding is controlled or emergency transport arrives."
+  },
+  {
+    "id": 316,
+    "domain": "intrapartum_care",
+    "front": "Why should the bladder be emptied during management of postpartum hemorrhage?",
+    "back": "A full bladder displaces and impedes contraction of the uterus, so emptying it supports effective uterine tone and helps control bleeding from atony."
+  },
+  {
+    "id": 317,
+    "domain": "intrapartum_care",
+    "front": "Why is quantifying rather than estimating blood loss important in postpartum hemorrhage?",
+    "back": "Visual estimation commonly underestimates true blood loss, which can delay recognition of the severity of hemorrhage and delay escalation of care and transfer."
+  },
+  {
+    "id": 318,
+    "domain": "intrapartum_care",
+    "front": "What is the most common setting for uterine rupture to occur?",
+    "back": "Along a prior cesarean scar during a trial of labour after cesarean, though rupture can also occur in an unscarred uterus with obstructed labour or excessive oxytocin use."
+  },
+  {
+    "id": 319,
+    "domain": "intrapartum_care",
+    "front": "List key warning signs of uterine rupture.",
+    "back": "Sudden severe abdominal pain that may break through epidural analgesia, sudden fetal bradycardia or loss of fetal heart rate, cessation of previously effective contractions, vaginal bleeding, and loss of station of the presenting part."
+  },
+  {
+    "id": 320,
+    "domain": "intrapartum_care",
+    "front": "What is the appropriate response to suspected uterine rupture?",
+    "back": "Immediate emergency transfer and preparation for emergency cesarean section and surgical repair, since this is a life threatening emergency for both client and fetus."
+  },
+  {
+    "id": 321,
+    "domain": "intrapartum_care",
+    "front": "Why is hospital birth generally recommended for a client planning a trial of labour after cesarean?",
+    "back": "Because uterine rupture can present subtly and requires immediate surgical capability, care should occur in or very close to a hospital with the ability to perform an emergency cesarean section."
+  },
+  {
+    "id": 322,
+    "domain": "intrapartum_care",
+    "front": "What is amniotic fluid embolism and how does it typically present?",
+    "back": "A rare event where amniotic fluid enters the maternal circulation, presenting with sudden respiratory distress, hypotension, and coagulopathy during labour, birth, or shortly after, with very high mortality."
+  },
+  {
+    "id": 323,
+    "domain": "intrapartum_care",
+    "front": "Outline the immediate steps in responding to maternal collapse.",
+    "back": "Call for help, assess airway, breathing, and circulation, position with left lateral tilt if still pregnant, begin basic life support including chest compressions if pulseless, and identify and treat reversible causes while arranging transport."
+  },
+  {
+    "id": 324,
+    "domain": "intrapartum_care",
+    "front": "Why is left lateral tilt used during resuscitation of a pregnant client?",
+    "back": "It relieves aortocaval compression from the gravid uterus, improving venous return and cardiac output during resuscitation efforts."
+  },
+  {
+    "id": 325,
+    "domain": "intrapartum_care",
+    "front": "What must every out-of-hospital midwifery practice maintain in case of maternal or neonatal emergency?",
+    "back": "Emergency equipment, current basic life support and neonatal resuscitation certification, and a clear, rehearsed protocol for emergency transfer."
+  },
+  {
+    "id": 326,
+    "domain": "intrapartum_care",
+    "front": "When is augmentation of labour with oxytocin or amniotomy indicated?",
+    "back": "When contractions are inadequate in the presence of reassuring fetal status and no contraindication, most commonly for active phase arrest or a hypotonic labour pattern."
+  },
+  {
+    "id": 327,
+    "domain": "intrapartum_care",
+    "front": "Give two indications for induction of labour.",
+    "back": "Post-term pregnancy and prelabour rupture of membranes without spontaneous labour onset within an appropriate interval are both recognized indications for induction of labour."
+  },
+  {
+    "id": 328,
+    "domain": "intrapartum_care",
+    "front": "Why do augmentation and induction typically require obstetric consultation?",
+    "back": "Both carry risks including uterine tachysystole and require monitoring capability beyond what is typically available for an independent out-of-hospital midwifery practice."
+  },
+  {
+    "id": 329,
+    "domain": "intrapartum_care",
+    "front": "Distinguish emergency transfer from urgent transfer.",
+    "back": "Emergency transfer applies when there is an immediate threat to life, such as hemorrhage or suspected rupture. Urgent transfer applies when obstetric assessment is needed promptly but there is no immediate threat to life."
+  },
+  {
+    "id": 330,
+    "domain": "intrapartum_care",
+    "front": "List three indications for emergency transfer during labour.",
+    "back": "An abnormal fetal heart rate pattern that does not resolve with intrauterine resuscitation, postpartum or intrapartum hemorrhage, and suspected uterine rupture are all indications for emergency transfer."
+  },
+  {
+    "id": 331,
+    "domain": "intrapartum_care",
+    "front": "What is tachysystole and how is it managed?",
+    "back": "Tachysystole is excessively frequent uterine contractions, more than 5 in 10 minutes averaged over 30 minutes. It is managed by discontinuing oxytocin if running and considering tocolysis if the fetal heart rate is affected."
+  },
+  {
+    "id": 332,
+    "domain": "intrapartum_care",
+    "front": "Why should oxygen not be applied routinely for a reassuring fetal heart rate tracing?",
+    "back": "Routine oxygen use is not supported by evidence for reassuring tracings and is reserved for situations where fetal hypoxia is specifically suspected as part of intrauterine resuscitation."
+  },
+  {
+    "id": 333,
+    "domain": "intrapartum_care",
+    "front": "What is persistent occiput posterior position and how does it contribute to dystocia?",
+    "back": "It is a fetal head position where the occiput remains posterior instead of rotating anteriorly, which is commonly associated with prolonged labour, increased pain, and a higher likelihood of operative delivery."
+  },
+  {
+    "id": 334,
+    "domain": "intrapartum_care",
+    "front": "What is asynclitism?",
+    "back": "Asynclitism is an oblique tilting of the fetal head within the pelvis rather than a straight alignment, which can contribute to slower descent and dystocia during labour."
+  },
+  {
+    "id": 335,
+    "domain": "intrapartum_care",
+    "front": "Why is the Zavanelli maneuver considered a last resort?",
+    "back": "It involves replacing the fetal head into the pelvis followed by emergency cesarean section, and is reserved for the rare cases of shoulder dystocia where all other maneuvers have failed, given its own significant risks."
+  },
+  {
+    "id": 336,
+    "domain": "intrapartum_care",
+    "front": "How does the midwifery model of care approach consultation for intrapartum complications?",
+    "back": "When a finding falls outside normal scope, the midwife consults or transfers care to an obstetrician or physician according to provincial guidelines rather than managing it independently, while continuing to provide continuity of care."
+  },
+  {
+    "id": 337,
+    "domain": "intrapartum_care",
+    "front": "What signs on newborn examination should prompt concern after a shoulder dystocia?",
+    "back": "Asymmetric arm movement, an audible or palpable clavicular or humeral fracture, and reduced grip or arm reflexes may indicate brachial plexus injury or fracture and should be documented and assessed promptly."
+  },
+  {
+    "id": 338,
+    "domain": "intrapartum_care",
+    "front": "What is retained placenta and when might it require transfer?",
+    "back": "Retained placenta is failure of the placenta to deliver within the interval defined by local protocol after birth. Prolonged retention beyond that interval, or associated bleeding, is an indication for transfer to hospital."
+  },
+  {
+    "id": 339,
+    "domain": "intrapartum_care",
+    "front": "How do polyhydramnios and malpresentation relate to cord prolapse risk?",
+    "back": "Both increase the space around the fetus or leave the presenting part poorly applied to the cervix, allowing the umbilical cord to slip down alongside or ahead of the presenting part."
+  },
+  {
+    "id": 340,
+    "domain": "intrapartum_care",
+    "front": "Why is continuous fetal heart rate assessment helpful but not required to act during cord prolapse?",
+    "back": "Monitoring helps gauge urgency and fetal status, but cord prolapse is treated as an emergency requiring immediate action regardless of whether continuous monitoring is available, especially out of hospital."
+  },
+  {
+    "id": 341,
+    "domain": "intrapartum_care",
+    "front": "What is the role of tranexamic acid in postpartum hemorrhage?",
+    "back": "Tranexamic acid is an antifibrinolytic agent given as an adjunct to uterotonics in postpartum hemorrhage management, helping to reduce ongoing bleeding, particularly when trauma or coagulopathy contributes."
+  },
+  {
+    "id": 342,
+    "domain": "intrapartum_care",
+    "front": "What maternal condition increases the risk of coagulopathy contributing to postpartum hemorrhage?",
+    "back": "Placental abruption is a recognized cause of consumptive coagulopathy that can precipitate or worsen postpartum hemorrhage through the thrombin component of the four T's."
+  },
+  {
+    "id": 343,
+    "domain": "intrapartum_care",
+    "front": "Why does the midwife avoid downward traction on the fetal head during shoulder dystocia?",
+    "back": "Downward traction increases the angle of lateral flexion on the fetal neck and raises the risk of brachial plexus stretch injury without resolving the shoulder impaction itself."
+  },
+  {
+    "id": 344,
+    "domain": "intrapartum_care",
+    "front": "What should the midwife tell the client and family during any intrapartum emergency transfer?",
+    "back": "Clear, calm communication explaining what is happening, why transfer is needed, and what to expect, alongside thorough documentation and activation of the practice's rehearsed transfer protocol."
+  },
+  {
+    "id": 345,
+    "domain": "intrapartum_care",
+    "front": "Why do more than half of real CMRE questions involve normal course and out-of-hospital care despite the emphasis on complications in study material?",
+    "back": "Most Canadian midwifery clients experience normal labour and birth, so competency in recognizing when a course is genuinely abnormal, rather than treating every birth as a potential emergency, is itself a core exam and practice skill."
+  },
+  {
+    "id": 346,
+    "domain": "postpartum_care",
+    "front": "What is involution?",
+    "back": "The process by which the uterus returns to its non-pregnant size and position after birth. The fundus descends roughly one to two centimetres per day and should no longer be palpable above the symphysis pubis by two weeks postpartum."
+  },
+  {
+    "id": 347,
+    "domain": "postpartum_care",
+    "front": "What are the three stages of lochia and their approximate timing?",
+    "back": "Lochia rubra (red, mostly blood) for the first three to four days, lochia serosa (pink to brown) from about day four to day ten, and lochia alba (yellowish white) that can persist for several weeks."
+  },
+  {
+    "id": 348,
+    "domain": "postpartum_care",
+    "front": "What does a return to bright red lochia after it has already progressed to serosa or alba suggest?",
+    "back": "A possible complication such as subinvolution, retained products of conception, or infection. This finding warrants assessment rather than reassurance."
+  },
+  {
+    "id": 349,
+    "domain": "postpartum_care",
+    "front": "Why are afterpains often more pronounced in multiparous clients and during breastfeeding?",
+    "back": "Uterine tone is more variable after multiple pregnancies so the uterus contracts more forcefully to maintain tone, and breastfeeding releases oxytocin, which stimulates additional uterine contraction."
+  },
+  {
+    "id": 350,
+    "domain": "postpartum_care",
+    "front": "How soon can ovulation return postpartum in someone who is not exclusively breastfeeding?",
+    "back": "As early as three weeks postpartum. This is why contraception counselling should begin well before the six week visit rather than waiting until then."
+  },
+  {
+    "id": 351,
+    "domain": "postpartum_care",
+    "front": "What is the typical schedule of routine postpartum midwifery visits?",
+    "back": "Approximately day one to two, day three to five, one to two weeks, and around six weeks, with additional contact as needed and usually at least one home visit."
+  },
+  {
+    "id": 352,
+    "domain": "postpartum_care",
+    "front": "Name four maternal red flag symptoms specifically asked about at postpartum visits and what each can indicate.",
+    "back": "Headache and visual changes can indicate delayed postpartum preeclampsia, epigastric pain can also indicate preeclampsia, and calf pain or swelling can indicate venous thromboembolism."
+  },
+  {
+    "id": 353,
+    "domain": "postpartum_care",
+    "front": "Why is it important to screen for intimate partner violence privately, away from a partner or family member?",
+    "back": "A client is unlikely to disclose abuse if the person causing harm is present. Creating a private moment during the visit is necessary for the screening to be meaningful and safe."
+  },
+  {
+    "id": 354,
+    "domain": "postpartum_care",
+    "front": "What findings on perineal assessment should prompt consultation?",
+    "back": "Pain out of proportion to the injury, spreading redness, purulent discharge, or wound breakdown, since these suggest infection or a hematoma rather than normal healing."
+  },
+  {
+    "id": 355,
+    "domain": "postpartum_care",
+    "front": "What comfort measures help with perineal discomfort after birth?",
+    "back": "Ice packs in the first 24 hours, warm sitz baths afterward, topical anesthetic sprays, simple oral analgesia, and pouring warm water over the perineum while voiding."
+  },
+  {
+    "id": 356,
+    "domain": "postpartum_care",
+    "front": "Does a client who had a cesarean birth remain within midwifery scope for postpartum follow-up?",
+    "back": "Yes, in most Canadian jurisdictions the midwife continues wound and recovery assessment postpartum even though an obstetrician performed the surgery itself."
+  },
+  {
+    "id": 357,
+    "domain": "postpartum_care",
+    "front": "What findings on cesarean incision assessment require consultation with the surgical team?",
+    "back": "Increasing pain, spreading erythema, wound dehiscence, purulent drainage, or fever, any of which suggest surgical site infection or another wound complication."
+  },
+  {
+    "id": 358,
+    "domain": "postpartum_care",
+    "front": "Define secondary (late) postpartum hemorrhage.",
+    "back": "Excessive bleeding occurring from 24 hours after birth up to six weeks postpartum, most commonly caused by retained products of conception, subinvolution of the placental site, or endometritis."
+  },
+  {
+    "id": 359,
+    "domain": "postpartum_care",
+    "front": "What is the most common cause of secondary postpartum hemorrhage?",
+    "back": "Retained products of conception, followed by subinvolution of the placental site and endometritis."
+  },
+  {
+    "id": 360,
+    "domain": "postpartum_care",
+    "front": "What should raise suspicion of endometritis in a postpartum client?",
+    "back": "Heavier than expected or persistent bleeding accompanied by fever and uterine tenderness, which together suggest infection requiring prompt assessment and likely consultation."
+  },
+  {
+    "id": 361,
+    "domain": "postpartum_care",
+    "front": "Why does significant secondary postpartum hemorrhage require urgent consultation or transfer?",
+    "back": "Definitive management may require ultrasound assessment and possible surgical evacuation of retained tissue, both of which fall outside independent midwifery scope."
+  },
+  {
+    "id": 362,
+    "domain": "postpartum_care",
+    "front": "What is the single most important management step for mastitis?",
+    "back": "Continued frequent milk removal from the affected breast. Feeding is not stopped, because milk stasis worsens the inflammation and infection."
+  },
+  {
+    "id": 363,
+    "domain": "postpartum_care",
+    "front": "How does mastitis typically present?",
+    "back": "A red, warm, wedge-shaped tender area of the breast, usually accompanied by fever and flu-like systemic symptoms, distinguishing it from a simple blocked duct."
+  },
+  {
+    "id": 364,
+    "domain": "postpartum_care",
+    "front": "When is antibiotic therapy indicated for mastitis?",
+    "back": "When systemic symptoms are significant, symptoms fail to improve within 24 hours of effective milk removal, or there are signs suggesting a developing breast abscess."
+  },
+  {
+    "id": 365,
+    "domain": "postpartum_care",
+    "front": "How does a blocked duct usually present and resolve?",
+    "back": "As a firm, tender, localized area without systemic symptoms, usually resolving with continued feeding, gentle massage toward the nipple, and varying feeding positions."
+  },
+  {
+    "id": 366,
+    "domain": "postpartum_care",
+    "front": "What is the most common cause of nipple pain during breastfeeding?",
+    "back": "A shallow or otherwise ineffective latch. Management focuses on reassessing positioning and attachment rather than limiting feeding time."
+  },
+  {
+    "id": 367,
+    "domain": "postpartum_care",
+    "front": "What should be suspected if nipple pain persists despite a good latch and includes shooting or burning sensations?",
+    "back": "A candida infection of the nipple and areola, which can be treated topically while breastfeeding continues."
+  },
+  {
+    "id": 368,
+    "domain": "postpartum_care",
+    "front": "How should low milk supply concerns be assessed?",
+    "back": "By reviewing objective measures such as infant weight trends and elimination pattern rather than relying only on a parent's subjective feeling of fullness, since perceived and actual supply are often mismatched."
+  },
+  {
+    "id": 369,
+    "domain": "postpartum_care",
+    "front": "How is breast engorgement managed?",
+    "back": "Frequent effective feeding or expression, cold compresses between feeds, and gentle hand expression before latching if the breast is too firm for the newborn to attach effectively."
+  },
+  {
+    "id": 370,
+    "domain": "postpartum_care",
+    "front": "What are the key features of the baby blues, and how do they differ from postpartum depression?",
+    "back": "Tearfulness, mood lability, and mild anxiety beginning within days of birth, peaking around day five, resolving within about two weeks without functional impairment, unlike postpartum depression which persists and impairs functioning."
+  },
+  {
+    "id": 371,
+    "domain": "postpartum_care",
+    "front": "What screening tool is standard for postpartum depression in Canadian maternity care?",
+    "back": "The Edinburgh Postnatal Depression Scale, a validated questionnaire where a score above the established threshold or any affirmative self-harm answer requires prompt further assessment."
+  },
+  {
+    "id": 372,
+    "domain": "postpartum_care",
+    "front": "What features distinguish postpartum psychosis, and how urgent is it?",
+    "back": "Confusion, delusions, hallucinations, or grossly disorganized behaviour, usually within the first two weeks postpartum. It is a psychiatric emergency requiring immediate consultation and typically hospitalization."
+  },
+  {
+    "id": 373,
+    "domain": "postpartum_care",
+    "front": "Why should midwives ask directly about anxiety and intrusive thoughts rather than screening for depression alone?",
+    "back": "Postpartum anxiety and postpartum obsessive-compulsive symptoms are common and frequently under-recognized because they do not fit the classic depression presentation."
+  },
+  {
+    "id": 374,
+    "domain": "postpartum_care",
+    "front": "What are the conditions required for the lactational amenorrhea method to be effective contraception?",
+    "back": "Exclusive or near-exclusive breastfeeding, amenorrhea, and less than six months postpartum. Outside these conditions the method is not reliable."
+  },
+  {
+    "id": 375,
+    "domain": "postpartum_care",
+    "front": "Why is combined hormonal contraception generally avoided in the first three weeks postpartum?",
+    "back": "The postpartum period is already hypercoagulable, and estrogen further elevates the risk of venous thromboembolism during this highest risk window."
+  },
+  {
+    "id": 376,
+    "domain": "postpartum_care",
+    "front": "Which contraceptive methods are generally considered compatible with breastfeeding soon after birth?",
+    "back": "Progestin-only methods, including the progestin-only pill, the etonogestrel implant, and the levonorgestrel intrauterine system."
+  },
+  {
+    "id": 377,
+    "domain": "postpartum_care",
+    "front": "What are the two main timing options for postpartum intrauterine device placement?",
+    "back": "Immediate postpartum placement in appropriate candidates, or delayed placement at around four weeks, with differing expulsion risk between the two timings."
+  },
+  {
+    "id": 378,
+    "domain": "postpartum_care",
+    "front": "How long does elevated venous thromboembolism risk persist after birth, and when is risk highest?",
+    "back": "Risk remains elevated for approximately six weeks postpartum, with the highest risk occurring in the first one to two weeks."
+  },
+  {
+    "id": 379,
+    "domain": "postpartum_care",
+    "front": "List four risk factors that increase postpartum venous thromboembolism risk.",
+    "back": "Cesarean birth, obesity, prolonged immobility, and a personal or family history of thromboembolism (smoking and advanced maternal age are additional risk factors)."
+  },
+  {
+    "id": 380,
+    "domain": "postpartum_care",
+    "front": "What symptoms suggest a postpartum deep vein thrombosis versus a pulmonary embolism?",
+    "back": "Deep vein thrombosis presents with unilateral leg swelling, pain, warmth, or redness. Pulmonary embolism presents with sudden dyspnea, chest pain, or tachycardia."
+  },
+  {
+    "id": 381,
+    "domain": "postpartum_care",
+    "front": "What is the appropriate midwifery response to suspected postpartum venous thromboembolism?",
+    "back": "Urgent transfer for imaging and anticoagulation, since diagnosis and treatment of thromboembolic disease fall outside independent midwifery scope."
+  },
+  {
+    "id": 382,
+    "domain": "postpartum_care",
+    "front": "When does Canadian midwifery care typically conclude postpartum?",
+    "back": "Around six weeks postpartum, at which point ongoing primary care responsibility transfers to a family physician, nurse practitioner, or other primary care provider for both parent and infant."
+  },
+  {
+    "id": 383,
+    "domain": "postpartum_care",
+    "front": "What should be confirmed before a client is discharged from midwifery care?",
+    "back": "That the client has a confirmed primary care provider for herself and the newborn, that records are transferred with consent, and that outstanding results or referrals are documented and communicated."
+  },
+  {
+    "id": 384,
+    "domain": "postpartum_care",
+    "front": "What hemodynamic change persists into the early postpartum period and why does it matter?",
+    "back": "Cardiac output remains elevated before gradually returning to pre-pregnancy values over roughly six weeks, which is part of why cardiac conditions can decompensate in the postpartum window."
+  },
+  {
+    "id": 385,
+    "domain": "postpartum_care",
+    "front": "What is telogen effluvium?",
+    "back": "Postpartum hair loss that becomes noticeable over the months after birth as hair follicles held in a growth phase during pregnancy resume their normal shedding cycle."
+  },
+  {
+    "id": 386,
+    "domain": "postpartum_care",
+    "front": "What newborn findings does the midwife assess alongside the maternal exam at each postpartum visit?",
+    "back": "Weight, feeding assessment, elimination pattern, jaundice screening, umbilical cord assessment, and a general physical examination of the newborn."
+  },
+  {
+    "id": 387,
+    "domain": "postpartum_care",
+    "front": "Why might combining maternal and newborn assessment in one visit catch problems earlier?",
+    "back": "Because subtle issues on one side of the dyad, such as poor infant weight gain paired with reported nipple pain, are more likely to be connected when the same provider sees both together."
+  },
+  {
+    "id": 388,
+    "domain": "postpartum_care",
+    "front": "What is a fluctuant, localized breast mass that does not respond to conservative mastitis management concerning for?",
+    "back": "A breast abscess, which requires referral for possible drainage rather than continued conservative treatment alone."
+  },
+  {
+    "id": 389,
+    "domain": "postpartum_care",
+    "front": "What anticipatory guidance should midwives provide about breastfeeding before problems arise?",
+    "back": "Reviewing hand expression technique early, explaining normal cluster feeding and growth spurt patterns, and connecting families with lactation consultants or peer support resources."
+  },
+  {
+    "id": 390,
+    "domain": "postpartum_care",
+    "front": "What support should a midwife offer a client who chooses not to breastfeed?",
+    "back": "Non-judgmental, evidence-based guidance on safe formula preparation and on managing physiologic engorgement while lactation is being suppressed."
+  },
+  {
+    "id": 391,
+    "domain": "postpartum_care",
+    "front": "Why is diaphoresis common in the early postpartum period?",
+    "back": "It reflects the body shedding the extra fluid volume accumulated during pregnancy, similar to the diuresis also seen in the first several days postpartum."
+  },
+  {
+    "id": 392,
+    "domain": "postpartum_care",
+    "front": "What is the standard midwifery response to a missed scheduled postpartum visit?",
+    "back": "The midwife triages the concern by phone or in person rather than simply rebooking into the next routine slot, and brings the visit forward if the history suggests a developing complication."
+  },
+  {
+    "id": 393,
+    "domain": "postpartum_care",
+    "front": "What is subinvolution and how does it relate to secondary postpartum hemorrhage?",
+    "back": "Subinvolution is delayed or incomplete return of the uterus to its non-pregnant size, and it is one of the recognized causes of secondary postpartum hemorrhage along with retained tissue and infection."
+  },
+  {
+    "id": 394,
+    "domain": "postpartum_care",
+    "front": "How should a midwife respond to an affirmative answer on the self-harm item of a depression screening tool regardless of the total score?",
+    "back": "The affirmative answer requires prompt further assessment on its own, independent of the overall screening score."
+  },
+  {
+    "id": 395,
+    "domain": "postpartum_care",
+    "front": "Why is documentation at each postpartum visit important for continuity of care?",
+    "back": "It should be thorough enough that another provider could understand the recovery trajectory, which supports continuity within a group practice and safe handoff to primary care at discharge."
+  },
+  {
+    "id": 396,
+    "domain": "postpartum_care",
+    "front": "What activity counselling is important for a client recovering from cesarean birth?",
+    "back": "Activity restriction guidance, safe techniques for holding and lifting the newborn without straining the incision, and realistic expectations for a longer recovery than vaginal birth."
+  },
+  {
+    "id": 397,
+    "domain": "postpartum_care",
+    "front": "What non-pharmacologic strategies help prevent postpartum venous thromboembolism?",
+    "back": "Early mobilization after birth and adequate hydration, with mechanical or pharmacologic prophylaxis considered in consultation for clients identified as higher risk."
+  },
+  {
+    "id": 398,
+    "domain": "postpartum_care",
+    "front": "What warm and cold compress guidance is given for mastitis symptom relief?",
+    "back": "Warm compresses before feeding to encourage milk flow, and cold compresses after feeding for comfort, alongside continued frequent feeding, rest, and hydration."
+  },
+  {
+    "id": 399,
+    "domain": "postpartum_care",
+    "front": "Why should contraception counselling ideally begin before birth rather than only at the six week visit?",
+    "back": "Because ovulation can return as early as three weeks postpartum in someone who is not exclusively breastfeeding, so waiting until six weeks risks an unintended pregnancy for some clients."
+  },
+  {
+    "id": 400,
+    "domain": "postpartum_care",
+    "front": "What findings on a postpartum uterine assessment raise concern for retained products of conception or infection?",
+    "back": "A fundus that is boggy, deviated from midline, or descending more slowly than the expected one to two centimetres per day."
+  },
+  {
+    "id": 401,
+    "domain": "postpartum_care",
+    "front": "Why is a full bladder relevant to fundal assessment postpartum?",
+    "back": "A distended bladder can displace and elevate the fundus and make the uterus feel less firm, mimicking signs of poor uterine tone if the bladder is not emptied first."
+  },
+  {
+    "id": 402,
+    "domain": "postpartum_care",
+    "front": "What is the practical difference in urgency between the baby blues and postpartum depression for a midwife's response?",
+    "back": "Baby blues need supportive reassurance and monitoring since they resolve spontaneously, while postpartum depression needs timely referral to mental health resources because it does not resolve without treatment."
+  },
+  {
+    "id": 403,
+    "domain": "postpartum_care",
+    "front": "What is the recommended approach when a postpartum client reports intrusive, unwanted thoughts about harm coming to the infant?",
+    "back": "Recognize this as a possible symptom of postpartum anxiety or postpartum obsessive-compulsive symptoms, assess further, and refer to appropriate mental health support rather than dismissing it as normal worry."
+  },
+  {
+    "id": 404,
+    "domain": "postpartum_care",
+    "front": "What should be completed at the final midwifery visit before discharge from care?",
+    "back": "Any outstanding screening, confirmation the client understands warning signs to seek care after midwifery involvement ends, and discussion of future pregnancy planning if relevant."
+  },
+  {
+    "id": 405,
+    "domain": "postpartum_care",
+    "front": "Why does the midwife remain professionally accountable for a safe transition even as the clinical relationship ends?",
+    "back": "Clear, well-documented handoff communication protects continuity of care for the client and reflects the midwife's ongoing professional responsibility through the end of the covered episode of care."
+  },
+  {
+    "id": 406,
+    "domain": "newborn_care",
+    "front": "What five parameters make up the Apgar score?",
+    "back": "Heart rate, respiratory effort, muscle tone, reflex irritability, and colour. Each is scored 0, 1, or 2, giving a total from 0 to 10."
+  },
+  {
+    "id": 407,
+    "domain": "newborn_care",
+    "front": "What Apgar heart rate scores a 2?",
+    "back": "A heart rate above 100 beats per minute scores 2. A rate between 1 and 100 scores 1, and an absent heart rate scores 0."
+  },
+  {
+    "id": 408,
+    "domain": "newborn_care",
+    "front": "At what times is the Apgar score routinely assigned?",
+    "back": "At 1 minute and 5 minutes after birth. If the 5-minute score is below 7, it is repeated again at 10 minutes."
+  },
+  {
+    "id": 409,
+    "domain": "newborn_care",
+    "front": "What does a total Apgar score of 0 to 3 indicate?",
+    "back": "Severe distress with the transition to extrauterine life, indicating a need for immediate and active resuscitation rather than observation."
+  },
+  {
+    "id": 410,
+    "domain": "newborn_care",
+    "front": "Should resuscitation wait for the Apgar score to be calculated?",
+    "back": "No. Resuscitation is based on the baby's breathing, tone, and heart rate and begins immediately if needed. The Apgar score is assigned afterward as a description, not a diagnostic tool."
+  },
+  {
+    "id": 411,
+    "domain": "newborn_care",
+    "front": "What three rapid questions guide the first seconds of newborn assessment?",
+    "back": "Is the baby term, is the baby breathing or crying, and does the baby have good tone. A baby who fails any of these needs to move to a warm surface for further assessment."
+  },
+  {
+    "id": 412,
+    "domain": "newborn_care",
+    "front": "Why are newborns at high risk of heat loss?",
+    "back": "They emerge wet into a much cooler environment, lose heat through evaporation, convection, conduction, and radiation, and cannot shiver effectively, relying instead on limited brown fat metabolism."
+  },
+  {
+    "id": 413,
+    "domain": "newborn_care",
+    "front": "What is the single most effective intervention for preventing newborn heat loss?",
+    "back": "Immediate, uninterrupted skin-to-skin contact with the birthing parent, started within minutes of birth and continued for at least the first hour."
+  },
+  {
+    "id": 414,
+    "domain": "newborn_care",
+    "front": "What is the normal axillary temperature range for a newborn?",
+    "back": "36.5 to 37.5 degrees Celsius. Below 36.5 Celsius is hypothermia and requires warming and assessment for an underlying cause."
+  },
+  {
+    "id": 415,
+    "domain": "newborn_care",
+    "front": "What newborn care tasks are typically deferred until after the first hour of skin-to-skin contact and first feed?",
+    "back": "Weighing, the full physical examination, eye prophylaxis, and vitamin K administration, provided the baby is stable, to protect the physiologic sequence supporting attachment and feeding."
+  },
+  {
+    "id": 416,
+    "domain": "newborn_care",
+    "front": "What is the golden hour?",
+    "back": "The first hour after birth, during which uninterrupted skin-to-skin contact supports thermoregulation, blood glucose stability, bonding, and the newborn's first breastfeed."
+  },
+  {
+    "id": 417,
+    "domain": "newborn_care",
+    "front": "Why is vernix caseosa not washed off immediately after birth?",
+    "back": "It has antimicrobial and moisturizing properties, and the first bath is generally delayed at least 24 hours to preserve these benefits and support thermoregulation."
+  },
+  {
+    "id": 418,
+    "domain": "newborn_care",
+    "front": "How is caput succedaneum distinguished from cephalhematoma on newborn exam?",
+    "back": "Caput succedaneum is diffuse scalp swelling that crosses suture lines, while cephalhematoma is a subperiosteal bleed confined strictly within the boundaries of one suture line."
+  },
+  {
+    "id": 419,
+    "domain": "newborn_care",
+    "front": "What does an absent red reflex on newborn eye exam suggest?",
+    "back": "It raises concern for congenital cataracts or retinoblastoma and requires prompt referral for further ophthalmologic evaluation."
+  },
+  {
+    "id": 420,
+    "domain": "newborn_care",
+    "front": "What two maneuvers screen for developmental dysplasia of the hip?",
+    "back": "The Barlow maneuver (attempts to dislocate a reducible hip) and the Ortolani maneuver (attempts to reduce a dislocated hip back into the socket)."
+  },
+  {
+    "id": 421,
+    "domain": "newborn_care",
+    "front": "What finding on the newborn back exam raises concern for spina bifida occulta?",
+    "back": "A dimple, tuft of hair, or mass over the lower spine, which warrants further evaluation rather than being dismissed as a normal variant."
+  },
+  {
+    "id": 422,
+    "domain": "newborn_care",
+    "front": "What is the normal newborn respiratory rate?",
+    "back": "30 to 60 breaths per minute. A sustained rate above 60 (tachypnea) is a sign of respiratory distress requiring evaluation."
+  },
+  {
+    "id": 423,
+    "domain": "newborn_care",
+    "front": "What is the normal newborn resting heart rate?",
+    "back": "110 to 160 beats per minute. Values persistently outside this range warrant further assessment."
+  },
+  {
+    "id": 424,
+    "domain": "newborn_care",
+    "front": "Name three primitive newborn reflexes assessed on exam.",
+    "back": "The rooting reflex, the palmar and plantar grasp reflex, and the Moro (startle) reflex. Absent or asymmetric reflexes require further evaluation."
+  },
+  {
+    "id": 425,
+    "domain": "newborn_care",
+    "front": "What is the breast crawl?",
+    "back": "The innate sequence in which an undisturbed newborn placed skin-to-skin on the parent's chest will spontaneously move toward and self-attach to the breast."
+  },
+  {
+    "id": 426,
+    "domain": "newborn_care",
+    "front": "What are early versus late newborn feeding cues?",
+    "back": "Early cues include stirring, mouth opening, and rooting. Crying is a late cue; ideally the baby feeds before reaching that point since a crying baby often latches less easily."
+  },
+  {
+    "id": 427,
+    "domain": "newborn_care",
+    "front": "What does a well-positioned breastfeeding latch look like?",
+    "back": "Asymmetric, with more areola visible above the baby's top lip than below, the chin touching the breast, lips flanged outward, and audible or visible swallowing."
+  },
+  {
+    "id": 428,
+    "domain": "newborn_care",
+    "front": "How many wet diapers indicate adequate intake by day five or six?",
+    "back": "At least six heavy wet diapers per day, once the birthing parent's milk volume has increased, is a reassuring sign of adequate intake."
+  },
+  {
+    "id": 429,
+    "domain": "newborn_care",
+    "front": "Describe the normal progression of newborn stool colour and character.",
+    "back": "Meconium in the first one to two days, then a greenish-brown transitional stool, then the yellow, seedy, loose stool typical of an exclusively breastfed baby by around day four or five."
+  },
+  {
+    "id": 430,
+    "domain": "newborn_care",
+    "front": "How often does a healthy newborn typically feed in 24 hours?",
+    "back": "Eight to twelve times in 24 hours during the early weeks, fed on cue rather than a rigid schedule."
+  },
+  {
+    "id": 431,
+    "domain": "newborn_care",
+    "front": "When is newborn metabolic (heel prick) screening ideally collected?",
+    "back": "Between 24 and 72 hours of age. Collecting too early can produce false results for conditions that depend on the baby having fed for a period of time."
+  },
+  {
+    "id": 432,
+    "domain": "newborn_care",
+    "front": "What methods are used for universal newborn hearing screening?",
+    "back": "Otoacoustic emissions testing or automated auditory brainstem response testing, typically performed before discharge or shortly after birth."
+  },
+  {
+    "id": 433,
+    "domain": "newborn_care",
+    "front": "What does a failed newborn hearing screen require?",
+    "back": "Rescreening, and if still abnormal, referral for diagnostic audiology assessment. It does not necessarily mean permanent hearing loss, since residual fluid can cause a false result."
+  },
+  {
+    "id": 434,
+    "domain": "newborn_care",
+    "front": "How and when is critical congenital heart disease (CCHD) screening performed?",
+    "back": "By pulse oximetry at 24 hours of age or later (or before discharge if earlier), measuring saturation in the right hand and in either foot."
+  },
+  {
+    "id": 435,
+    "domain": "newborn_care",
+    "front": "What defines a passing CCHD pulse oximetry screen?",
+    "back": "Oxygen saturation of 95% or greater in either extremity, with no more than a 3% difference between the pre-ductal (right hand) and post-ductal (foot) readings."
+  },
+  {
+    "id": 436,
+    "domain": "newborn_care",
+    "front": "What follow-up is required after a failed CCHD screen?",
+    "back": "Prompt echocardiography and pediatric or cardiology consultation, since serious structural heart defects can be clinically silent in the first days of life."
+  },
+  {
+    "id": 437,
+    "domain": "newborn_care",
+    "front": "When does physiologic jaundice typically appear and peak?",
+    "back": "It typically appears after 24 hours of age, peaks around day three to five, and resolves by two weeks in a term baby."
+  },
+  {
+    "id": 438,
+    "domain": "newborn_care",
+    "front": "Why is jaundice appearing in the first 24 hours of life always concerning?",
+    "back": "It is never considered physiologic and raises concern for hemolytic disease, sepsis, or another pathologic cause that can progress rapidly, requiring urgent assessment."
+  },
+  {
+    "id": 439,
+    "domain": "newborn_care",
+    "front": "How does visible jaundice typically progress on a newborn's body?",
+    "back": "In a cephalocaudal pattern, appearing first on the face and progressing downward toward the trunk and extremities as the bilirubin level rises."
+  },
+  {
+    "id": 440,
+    "domain": "newborn_care",
+    "front": "Why is a bilirubin level plotted against the baby's age in hours rather than judged as a single number?",
+    "back": "Because a level unremarkable at 96 hours may represent a rapidly rising, high-risk trajectory if measured at 30 hours, so hour-specific nomograms guide risk stratification."
+  },
+  {
+    "id": 441,
+    "domain": "newborn_care",
+    "front": "What factors lower the bilirubin threshold at which phototherapy is recommended?",
+    "back": "Lower gestational age, younger postnatal age, and additional risk factors for hyperbilirubinemia such as hemolysis all lower the treatment threshold."
+  },
+  {
+    "id": 442,
+    "domain": "newborn_care",
+    "front": "How does phototherapy lower bilirubin levels?",
+    "back": "It converts bilirubin in the skin into water-soluble isomers that the body can excrete without requiring hepatic conjugation."
+  },
+  {
+    "id": 443,
+    "domain": "newborn_care",
+    "front": "What is the midwife's role when a newborn requires phototherapy?",
+    "back": "Consultation or transfer to a pediatrician, plus early risk-factor recognition, arranging timely bilirubin testing, and supporting frequent effective feeding to aid bilirubin elimination."
+  },
+  {
+    "id": 444,
+    "domain": "newborn_care",
+    "front": "Why is vitamin K given to all newborns?",
+    "back": "Newborns are born with low vitamin K levels needed for clotting factor synthesis, placing them at risk of vitamin K deficiency bleeding, including catastrophic intracranial hemorrhage."
+  },
+  {
+    "id": 445,
+    "domain": "newborn_care",
+    "front": "What is the standard vitamin K dose and route for a term newborn?",
+    "back": "A single intramuscular dose of vitamin K (phytonadione), typically 1 mg, given after the first hour of skin-to-skin contact once the baby is stable."
+  },
+  {
+    "id": 446,
+    "domain": "newborn_care",
+    "front": "Why is oral vitamin K considered inferior to the intramuscular route?",
+    "back": "It requires multiple doses spread over weeks and carries a higher risk of inadequate prophylaxis due to missed doses or vomiting."
+  },
+  {
+    "id": 447,
+    "domain": "newborn_care",
+    "front": "What is eye prophylaxis intended to prevent?",
+    "back": "Ophthalmia neonatorum, an eye infection caused by maternal gonococcal or chlamydial infection acquired during passage through the birth canal, which can cause corneal scarring and blindness."
+  },
+  {
+    "id": 448,
+    "domain": "newborn_care",
+    "front": "Can parents decline vitamin K or eye prophylaxis?",
+    "back": "Yes, after a full informed discussion of risks and benefits. The midwife documents the informed refusal and, for vitamin K, offers the oral alternative with the full dosing schedule."
+  },
+  {
+    "id": 449,
+    "domain": "newborn_care",
+    "front": "What percentage of birth weight loss is considered within the normal range for an exclusively breastfed newborn?",
+    "back": "Up to 7% of birth weight. Loss between 7% and 10% warrants a careful feeding assessment."
+  },
+  {
+    "id": 450,
+    "domain": "newborn_care",
+    "front": "What weight loss threshold requires prompt evaluation and possible supplementation?",
+    "back": "Weight loss exceeding 10% of birth weight is significant and generally an indication for consultation, often prompting a weighted feed and lactation support."
+  },
+  {
+    "id": 451,
+    "domain": "newborn_care",
+    "front": "By what age should a newborn regain their birth weight?",
+    "back": "By two weeks of age. Failure to regain birth weight by two weeks requires further feeding assessment and possible consultation."
+  },
+  {
+    "id": 452,
+    "domain": "newborn_care",
+    "front": "What respiratory signs suggest a sick newborn?",
+    "back": "Grunting, nasal flaring, chest wall retractions, a respiratory rate above 60 breaths per minute, or apnea, all of which warrant urgent evaluation."
+  },
+  {
+    "id": 453,
+    "domain": "newborn_care",
+    "front": "Why is bile-stained (green) newborn vomiting considered an emergency?",
+    "back": "It suggests bowel obstruction and requires immediate assessment, unlike simple regurgitation, which is common and not typically bile-stained."
+  },
+  {
+    "id": 454,
+    "domain": "newborn_care",
+    "front": "What temperature findings define newborn temperature instability?",
+    "back": "Fever above 38 degrees Celsius or hypothermia below 36.5 degrees Celsius, both of which prompt urgent evaluation for an underlying cause."
+  },
+  {
+    "id": 455,
+    "domain": "newborn_care",
+    "front": "What labour-related risk factors raise suspicion for newborn sepsis?",
+    "back": "Maternal fever in labour, rupture of membranes beyond 18 hours, and maternal Group B Streptococcus colonization without adequate intrapartum antibiotic prophylaxis."
+  },
+  {
+    "id": 456,
+    "domain": "newborn_care",
+    "front": "How can newborn seizures present subtly?",
+    "back": "As repetitive lip smacking, cycling limb movements, or staring episodes, rather than a dramatic generalized convulsion, so subtle behaviours still warrant urgent evaluation."
+  },
+  {
+    "id": 457,
+    "domain": "newborn_care",
+    "front": "What does the Canadian midwifery model emphasize for normal newborn care?",
+    "back": "Minimal interruption of normal physiologic transition, informed choice for routine interventions, and prompt consultation or transfer whenever a finding falls outside normal scope."
+  },
+  {
+    "id": 458,
+    "domain": "newborn_care",
+    "front": "Why is routine suctioning no longer recommended for a vigorous newborn, even with meconium-stained fluid?",
+    "back": "Current evidence shows it does not improve outcomes for a vigorous baby and drying and stimulation are preferred as the primary supportive measures."
+  },
+  {
+    "id": 459,
+    "domain": "newborn_care",
+    "front": "What is the recommended timing for delayed cord clamping in an uncomplicated birth?",
+    "back": "At least one to three minutes, or until the cord stops pulsating, in the absence of a reason for immediate resuscitation."
+  },
+  {
+    "id": 460,
+    "domain": "newborn_care",
+    "front": "Why is a newborn hat used after birth even during skin-to-skin contact?",
+    "back": "The scalp has a relatively large surface area for heat loss, so covering the head with a hat while the body stays skin-to-skin reduces overall heat loss."
+  },
+  {
+    "id": 461,
+    "domain": "newborn_care",
+    "front": "What does a mottled or pale newborn with poor perfusion suggest?",
+    "back": "A sign of a potentially sick newborn, since poor perfusion can reflect sepsis, cardiac compromise, or another serious underlying process requiring urgent evaluation."
+  },
+  {
+    "id": 462,
+    "domain": "newborn_care",
+    "front": "Why does exclusive breastfeeding for six months matter to newborn care planning?",
+    "back": "It is Health Canada's recommendation for optimal infant nutrition, and midwives support and facilitate it through early skin-to-skin contact and timely feeding assessment."
+  },
+  {
+    "id": 463,
+    "domain": "newborn_care",
+    "front": "What newborn visit schedule commonly tracks weight in the first two weeks?",
+    "back": "Commonly day one, day three to five, and two weeks, though the exact schedule varies with how the baby is feeding and growing."
+  },
+  {
+    "id": 464,
+    "domain": "newborn_care",
+    "front": "Why should weight alone never be used to judge a newborn's wellbeing?",
+    "back": "Weight in isolation can falsely reassure or falsely alarm; it must be interpreted alongside feeding history, elimination pattern, and physical examination findings."
+  },
+  {
+    "id": 465,
+    "domain": "newborn_care",
+    "front": "What is the midwife's core responsibility when multiple red flag findings appear in a newborn?",
+    "back": "Prompt recognition, stabilization within her scope such as airway, breathing, and warmth, and urgent consultation or transfer following her provincial escalation pathway."
+  },
+  {
+    "id": 466,
+    "domain": "well_woman_care",
+    "front": "What daily folic acid dose is recommended for average-risk clients during preconception counselling?",
+    "back": "0.4 mg daily is recommended for average risk. Moderate risk factors such as pre-gestational diabetes or a body mass index above 35 raise the dose to 1 mg, and high risk factors such as a prior neural tube defect pregnancy raise it to 4 mg."
+  },
+  {
+    "id": 467,
+    "domain": "well_woman_care",
+    "front": "Why should interpregnancy interval be discussed at a preconception counselling visit?",
+    "back": "Spacing pregnancies less than six months apart increases the risk of preterm birth and low birth weight. Preconception counselling reviews interpregnancy interval so clients can plan spacing that reduces these risks."
+  },
+  {
+    "id": 468,
+    "domain": "well_woman_care",
+    "front": "Which contraceptive methods are considered long-acting reversible contraception?",
+    "back": "The copper and hormonal intrauterine devices and the subdermal etonogestrel implant are long-acting reversible methods. They offer the highest real-world effectiveness because they remove the need for daily or per-use adherence."
+  },
+  {
+    "id": 469,
+    "domain": "well_woman_care",
+    "front": "Why are combined hormonal contraceptives contraindicated in a client with migraine with aura?",
+    "back": "Combined hormonal methods carry a small but real increased risk of venous thromboembolism. Migraine with aura is associated with increased stroke risk, and adding estrogen further raises that risk, so progestin-only or non-hormonal methods are preferred."
+  },
+  {
+    "id": 470,
+    "domain": "well_woman_care",
+    "front": "What three conditions must all be true for lactational amenorrhea to be an effective contraceptive method?",
+    "back": "The client must be fully or nearly fully breastfeeding, amenorrheic, and less than six months postpartum. All three conditions must hold together, and effectiveness declines as any one condition changes."
+  },
+  {
+    "id": 471,
+    "domain": "well_woman_care",
+    "front": "What is a key advantage of the hormonal intrauterine device for a client with heavy menstrual bleeding who also wants contraception?",
+    "back": "The hormonal intrauterine device reduces menstrual bleeding while providing highly effective contraception. This makes it a reasonable single option for clients seeking both benefits at once."
+  },
+  {
+    "id": 472,
+    "domain": "well_woman_care",
+    "front": "How has cervical cancer screening in Canada changed in several provinces?",
+    "back": "Several provinces have shifted toward primary human papillomavirus testing rather than cytology-based Pap testing alone. Other provinces remain in transition, so midwives must know their specific provincial guideline rather than apply one national rule."
+  },
+  {
+    "id": 473,
+    "domain": "well_woman_care",
+    "front": "What breast findings require referral outside midwifery management?",
+    "back": "A palpable mass, nipple discharge, or skin changes suggestive of malignancy all require prompt referral. None of these findings fall within midwifery management, and delay in referral can worsen outcomes."
+  },
+  {
+    "id": 474,
+    "domain": "well_woman_care",
+    "front": "What is the general range for a normal menstrual cycle length and bleeding duration?",
+    "back": "A normal cycle ranges roughly from 24 to 38 days, with bleeding lasting up to eight days. Departures from this pattern prompt further history taking and, where indicated, referral."
+  },
+  {
+    "id": 475,
+    "domain": "well_woman_care",
+    "front": "What clinical feature of dysmenorrhea raises suspicion for endometriosis?",
+    "back": "Secondary dysmenorrhea that worsens progressively over time raises suspicion for endometriosis. This pattern warrants gynecology referral for definitive evaluation rather than continued symptomatic management alone."
+  },
+  {
+    "id": 476,
+    "domain": "well_woman_care",
+    "front": "What symptom in a postmenopausal client always requires prompt referral?",
+    "back": "Postmenopausal bleeding always requires prompt referral for investigation. It can be a sign of endometrial pathology, including malignancy, and cannot be safely managed within midwifery scope alone."
+  },
+  {
+    "id": 477,
+    "domain": "well_woman_care",
+    "front": "When should a client be offered genetic counselling referral during preconception counselling?",
+    "back": "Referral is offered when family history, ethnicity, or prior obstetric history suggests elevated risk, such as a family history of Tay-Sachs disease in a couple of Ashkenazi Jewish or French Canadian descent, or advanced parental age."
+  },
+  {
+    "id": 478,
+    "domain": "well_woman_care",
+    "front": "Why is typical-use failure rate more useful than perfect-use failure rate when counselling on contraception?",
+    "back": "Typical-use failure rate reflects how methods actually perform in real life, including inconsistent or incorrect use. Perfect-use rates understate real risk, so counselling based on typical use gives clients more accurate expectations."
+  },
+  {
+    "id": 479,
+    "domain": "well_woman_care",
+    "front": "What sexually transmitted infections are commonly included in well woman screening panels?",
+    "back": "Chlamydia, gonorrhea, syphilis, and HIV are commonly screened based on risk factors and as part of routine antenatal panels. Counselling on safer sex and partner notification accompanies screening."
+  },
+  {
+    "id": 480,
+    "domain": "legal_and_ethical_practice",
+    "front": "What three conditions must be met for informed consent to be valid?",
+    "back": "Consent must be informed about the nature, risks, benefits, and alternatives of care, given voluntarily without coercion, and given by a person with capacity. All three conditions must be present for consent to be legally valid."
+  },
+  {
+    "id": 481,
+    "domain": "legal_and_ethical_practice",
+    "front": "What does it mean that capacity is decision-specific?",
+    "back": "A client may have capacity to consent to one intervention while lacking capacity for a more complex decision at the same visit. Capacity is assessed for each specific decision rather than as a single global judgment."
+  },
+  {
+    "id": 482,
+    "domain": "legal_and_ethical_practice",
+    "front": "What must a midwife do when a competent client refuses a recommended transfer to hospital during labour?",
+    "back": "The refusal must be respected since a competent client has the right to decline any recommended care. The midwife must clearly document the counselling given about the risks of declining and the client's decision."
+  },
+  {
+    "id": 483,
+    "domain": "legal_and_ethical_practice",
+    "front": "What is the consequence of failing to consult or transfer care when a finding requires it?",
+    "back": "Failing to consult or transfer when indicated is one of the most common bases for a finding of professional negligence against a midwife. It represents practising outside the scope defined by the regulatory college."
+  },
+  {
+    "id": 484,
+    "domain": "legal_and_ethical_practice",
+    "front": "What frameworks guide consultation and transfer decisions across provinces?",
+    "back": "Each provincial college publishes guidelines describing required discussion, consultation, or transfer, commonly modelled on frameworks such as Ontario's Indications for Discussion, Consultation and Transfer of Care."
+  },
+  {
+    "id": 485,
+    "domain": "legal_and_ethical_practice",
+    "front": "What triggers a midwife's mandatory duty to report suspected child abuse or neglect?",
+    "back": "The duty is triggered by reasonable suspicion, not proof, and it overrides confidentiality obligations. The duty is personal and cannot be delegated to a colleague or supervisor."
+  },
+  {
+    "id": 486,
+    "domain": "legal_and_ethical_practice",
+    "front": "Why must a correction to a clinical record be made transparently rather than by editing the original entry?",
+    "back": "The original entry must be preserved with the correction clearly marked, dated, and initialed. Altering a record without a visible trail can be treated as falsification and can undermine a midwife's credibility if a complaint arises."
+  },
+  {
+    "id": 487,
+    "domain": "legal_and_ethical_practice",
+    "front": "What governs how a midwife may collect, use, and disclose personal health information?",
+    "back": "Provincial health information privacy legislation, closely modelled on Ontario's Personal Health Information Protection Act, governs collection, use, and disclosure. Disclosure outside the circle of care generally requires client consent, subject to defined legal exceptions."
+  },
+  {
+    "id": 488,
+    "domain": "legal_and_ethical_practice",
+    "front": "What outcomes can result from a regulatory college discipline hearing?",
+    "back": "Outcomes can include a reprimand, conditions or limitations on practice, suspension, or revocation of the certificate of registration. Findings are typically included in the public register maintained by the college."
+  },
+  {
+    "id": 489,
+    "domain": "legal_and_ethical_practice",
+    "front": "What role does the clinical record play if a complaint or lawsuit arises years after a birth?",
+    "back": "The clinical record is treated as central evidence of the care actually provided. Records must be retained for the period set by provincial regulation, often longer for minors, since a claim can arise once a child reaches the age of majority."
+  },
+  {
+    "id": 490,
+    "domain": "legal_and_ethical_practice",
+    "front": "Who determines the substitute decision maker when a client lacks capacity to consent?",
+    "back": "Provincial health care consent legislation sets out a hierarchy of substitute decision makers. The midwife seeks consent from the appropriate person in that hierarchy while still involving the client to the extent possible."
+  },
+  {
+    "id": 491,
+    "domain": "professional_development",
+    "front": "What is the purpose of reflective practice in continuing competency programs?",
+    "back": "Reflective practice is the deliberate, ongoing examination of one's own clinical decisions and outcomes. It identifies strengths and areas for growth and underpins every provincial college's continuing competency requirements."
+  },
+  {
+    "id": 492,
+    "domain": "professional_development",
+    "front": "What activities commonly make up a provincial college's quality assurance program?",
+    "back": "A quality assurance program commonly combines self-assessment, peer or practice review, and sometimes random or targeted practice audits. Participation is a condition of maintaining registration in good standing."
+  },
+  {
+    "id": 493,
+    "domain": "professional_development",
+    "front": "How does peer review differ from the regulatory discipline process?",
+    "back": "Peer review focuses on remediation and system-level learning rather than punishing an individual midwife. It commonly uses structured chart audits, case review rounds, or direct observation to support improvement."
+  },
+  {
+    "id": 494,
+    "domain": "professional_development",
+    "front": "What supports safe handoffs during an urgent transfer from home to hospital?",
+    "back": "Structured communication tools, shared care plans, and timely, complete documentation all support safe handoffs. Incomplete information transfer has been identified as a contributing factor in adverse outcomes."
+  },
+  {
+    "id": 495,
+    "domain": "professional_development",
+    "front": "What does self-regulation mean for the midwifery profession in Canada?",
+    "back": "The provincial legislature delegates authority to the profession's own regulatory college to set standards, register applicants, and discipline members. This privilege requires the profession to act primarily in the public interest."
+  },
+  {
+    "id": 496,
+    "domain": "professional_development",
+    "front": "Why does self-regulation include a duty to report a colleague when patient safety is at risk?",
+    "back": "Self-regulation depends on the profession policing itself honestly to protect the public. A midwife with reasonable grounds to believe patient safety is at risk has a responsibility to raise the concern with the college."
+  },
+  {
+    "id": 497,
+    "domain": "professional_development",
+    "front": "Who developed the CMRE and why?",
+    "back": "The Canadian Midwifery Regulators Council developed the examination collaboratively among the provincial and territorial colleges. This ensures a consistent, defensible standard for entry to practice across the country."
+  },
+  {
+    "id": 498,
+    "domain": "professional_development",
+    "front": "What health professionals typically make up the interprofessional maternity care team?",
+    "back": "The team commonly includes obstetricians, family physicians, nurses, anesthesiologists, pediatricians, lactation consultants, and social workers. Collaborative practice among them is an explicit standard in most provincial competency frameworks."
+  },
+  {
+    "id": 499,
+    "domain": "professional_development",
+    "front": "What makes reflection following a significant adverse event particularly valuable?",
+    "back": "Structured reflection following an adverse event reviews the outcome against the evidence and the midwife's own decision points. Many colleges require documented reflection after a critical incident review rather than informal reflection alone."
+  },
+  {
+    "id": 500,
+    "domain": "professional_development",
+    "front": "What is a defining feature of collaborative decision making in interprofessional maternity care?",
+    "back": "Collaborative decision making keeps the client's informed choice at the centre even as care is coordinated across providers. It requires mutual respect for each provider's scope and expertise alongside clear communication."
+  }
+]
